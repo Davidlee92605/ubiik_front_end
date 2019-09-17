@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="ng2.template" datatype="plaintext" xml:space="preserve" source-language="en-us" target-language="fr">
+    <header>
+      <tool tool-id="poeditor.com" tool-name="POEditor"/>
+    </header>
+    <body>
+      <trans-unit id="Login">
+        <source>Login</source>
+        <target>S'identifier</target>
+      </trans-unit>
+      <trans-unit id="Email">
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="Password">
+        <source>Password</source>
+        <target>Mot de passe</target>
+      </trans-unit>
+      <trans-unit id="Invalid credentials">
+        <source>Invalid credentials</source>
+        <target>les informations d'identification invalides</target>
+      </trans-unit>
+      <trans-unit id="Forgot password?">
+        <source>Forgot password?</source>
+        <target>mot de passe oublié?</target>
+      </trans-unit>
+      <trans-unit id="Current password">
+        <source>Current password</source>
+        <target>Mot de passe actuel</target>
+      </trans-unit>
+      <trans-unit id="New password">
+        <source>New password</source>
+        <target>Nouveau mot de passe</target>
+      </trans-unit>
+      <trans-unit id="Confirm new password">
+        <source>Confirm new password</source>
+        <target>Confirmer le nouveau mot de passe</target>
+      </trans-unit>
+      <trans-unit id="Passwords do not match">
+        <source>Passwords do not match</source>
+        <target>Les mots de passe ne correspondent pas</target>
+      </trans-unit>
+      <trans-unit id="Password was changed">
+        <source>Password was changed</source>
+        <target>Le mot de passe a été changé</target>
+      </trans-unit>
+      <trans-unit id="Submit">
+        <source>Submit</source>
+        <target>Soumettre</target>
+      </trans-unit>
+      <trans-unit id="Success">
+        <source>Success</source>
+        <target>Succès</target>
+      </trans-unit>
+      <trans-unit id="Password change successful">
+        <source>Password change successful</source>
+        <target>Changement de mot de passe réussi</target>
+      </trans-unit>
+      <trans-unit id="Send Password Reset Link">
+        <source>Send Password Reset Link</source>
+        <target>Envoyer le lien de réinitialisation du mot de passe</target>
+      </trans-unit>
+      <trans-unit id="Done. Please check your email.">
+        <source>Done. Please check your email.</source>
+        <target>Terminé. Merci de consulter vos emails.</target>
+      </trans-unit>
+      <trans-unit id="Users">
+        <source>Users</source>
+        <target>Utilisateurs</target>
+      </trans-unit>
+      <trans-unit id="Name">
+        <source>Name</source>
+        <target>prénom</target>
+      </trans-unit>
+      <trans-unit id="Role">
+        <source>Role</source>
+        <target>Rôle</target>
+      </trans-unit>
+      <trans-unit id="Actions">
+        <source>Actions</source>
+        <target>actes</target>
+      </trans-unit>
+      <trans-unit id="Delete user">
+        <source>Delete user</source>
+        <target>Supprimer l'utilisateur</target>
+      </trans-unit>
+      <trans-unit id="Edit meter associations">
+        <source>Edit meter associations</source>
+        <target>Modifier les associations de compteurs</target>
+      </trans-unit>
+      <trans-unit id="Create User">
+        <source>Create User</source>
+        <target>Créer un utilisateur</target>
+      </trans-unit>
+      <trans-unit id="Real name">
+        <source>Real name</source>
+        <target>Vrai nom</target>
+      </trans-unit>
+      <trans-unit id="Email address">
+        <source>Email address</source>
+        <target>Adresse électronique</target>
+      </trans-unit>
+      <trans-unit id="Account created">
+        <source>Account created</source>
+        <target>Compte créé</target>
+      </trans-unit>
+      <trans-unit id="Manager Account Associations">
+        <source>Manager Account Associations</source>
+        <target>Associations de compte de responsable</target>
+      </trans-unit>
+      <trans-unit id="this Association">
+        <source>this Association</source>
+        <target>cette association</target>
+      </trans-unit>
+      <trans-unit id="Associate Meter">
+        <source>Associate Meter</source>
+        <target>Mètre associé</target>
+      </trans-unit>
+      <trans-unit id="Meter ID">
+        <source>Meter ID</source>
+        <target>ID du compteur</target>
+      </trans-unit>
+      <trans-unit id="Association saved">
+        <source>Association saved</source>
+        <target>Association sauvée</target>
+      </trans-unit>
+      <trans-unit id="Change Password">
+        <source>Change Password</source>
+        <target>Changer le mot de passe</target>
+      </trans-unit>
+      <trans-unit id="Create Meter Record">
+        <source>Create Meter Record</source>
+        <target>Créer un enregistrement de compteur</target>
+      </trans-unit>
+      <trans-unit id="Edit Meter Record">
+        <source>Edit Meter Record</source>
+        <target>Modifier l'enregistrement du compteur</target>
+      </trans-unit>
+      <trans-unit id="IMSI">
+        <source>IMSI</source>
+        <target>IMSI</target>
+      </trans-unit>
+      <trans-unit id="GUK">
+        <source>GUK</source>
+        <target>GUK</target>
+      </trans-unit>
+      <trans-unit id="AK">
+        <source>AK</source>
+        <target>AK</target>
+      </trans-unit>
+      <trans-unit id="Coordinates">
+        <source>Coordinates</source>
+        <target>Les coordonnées</target>
+      </trans-unit>
+      <trans-unit id="Address">
+        <source>Address</source>
+        <target>Adresse</target>
+      </trans-unit>
+      <trans-unit id="Notes">
+        <source>Notes</source>
+        <target>Remarques</target>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Annuler</target>
+      </trans-unit>
+      <trans-unit id="Meters">
+        <source>Meters</source>
+        <target>Mètres</target>
+      </trans-unit>
+      <trans-unit id="Add Meter">
+        <source>Add Meter</source>
+        <target>Ajouter un mètre</target>
+      </trans-unit>
+      <trans-unit id="Meter Key Upload">
+        <source>Meter Key Upload</source>
+        <target>Compteur Clé Upload</target>
+      </trans-unit>
+      <trans-unit id="File type supported: CSV">
+        <source>File type supported: CSV</source>
+        <target>Type de fichier supporté: CSV</target>
+      </trans-unit>
+      <trans-unit id="File format: TAB separated">
+        <source>File format: TAB separated</source>
+        <target>Format de fichier: TAB séparé</target>
+      </trans-unit>
+      <trans-unit id="CSV fields: MeterID, IMSI, GUK, AK, Address (optional), Coords (optional), Notes (optional)">
+        <source>CSV fields: MeterID, IMSI, GUK, AK, Address (optional), Coords (optional), Notes (optional)</source>
+        <target>Champs CSV: MeterID, IMSI, GUK, AK, Adresse (facultatif), Coords (facultatif), Notes (facultatif).</target>
+      </trans-unit>
+      <trans-unit id="Choose file">
+        <source>Choose file</source>
+        <target>Choisir le fichier</target>
+      </trans-unit>
+      <trans-unit id="Updated">
+        <source>Updated</source>
+        <target>Mis à jour</target>
+      </trans-unit>
+      <trans-unit id="Upload">
+        <source>Upload</source>
+        <target>Télécharger</target>
+      </trans-unit>
+      <trans-unit id="Load Profile Chart">
+        <source>Load Profile Chart</source>
+        <target>Diagramme de profil de charge</target>
+      </trans-unit>
+      <trans-unit id="Filter">
+        <source>Filter</source>
+        <target>Filtre</target>
+      </trans-unit>
+      <trans-unit id="15 Minute">
+        <source>15 Minute</source>
+        <target>15 minutes</target>
+      </trans-unit>
+      <trans-unit id="Inteval">
+        <source>Interval</source>
+        <target>Inteval</target>
+      </trans-unit>
+      <trans-unit id="Browse Load Profile Data">
+        <source>Browse Load Profile Data</source>
+        <target>Parcourir les données de profil de charge</target>
+      </trans-unit>
+      <trans-unit id="Time">
+        <source>Time</source>
+        <target>Temps</target>
+      </trans-unit>
+      <trans-unit id="Export Data">
+        <source>Export Data</source>
+        <target>Exporter des données</target>
+      </trans-unit>
+      <trans-unit id="Choose a start date">
+        <source>Choose a start date</source>
+        <target>Choisissez une date de début</target>
+      </trans-unit>
+      <trans-unit id="Choose an end date">
+        <source>Choose an end date</source>
+        <target>Choisissez une date de fin</target>
+      </trans-unit>
+      <trans-unit id="Download Export File">
+        <source>Download Export File</source>
+        <target>Télécharger le fichier d'exportation</target>
+      </trans-unit>
+      <trans-unit id="No">
+        <source>No</source>
+        <target>Non</target>
+      </trans-unit>
+      <trans-unit id="Yes">
+        <source>Yes</source>
+        <target>Oui</target>
+      </trans-unit>
+      <trans-unit id="State">
+        <source>State</source>
+        <target>Etat</target>
+      </trans-unit>
+      <trans-unit id="Registered">
+        <source>Registered</source>
+        <target>Inscrit</target>
+      </trans-unit>
+      <trans-unit id="Authenticated">
+        <source>Authenticated</source>
+        <target>Authentifié</target>
+      </trans-unit>
+      <trans-unit id="Last Seen">
+        <source>Last Seen</source>
+        <target>Dernière vue</target>
+      </trans-unit>
+      <trans-unit id="Show More">
+        <source>Show More</source>
+        <target>Montre plus</target>
+      </trans-unit>
+      <trans-unit id="Show Less">
+        <source>Show Less</source>
+        <target>Montre moins</target>
+      </trans-unit>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <target>Effacer</target>
+      </trans-unit>
+      <trans-unit id="Edit">
+        <source>Edit</source>
+        <target>modifier</target>
+      </trans-unit>
+      <trans-unit id="Ubiik Power Meter Management System">
+        <source>Ubiik Power Meter Management System</source>
+        <target>Système de gestion de compteurs d'énergie Ubiik</target>
+      </trans-unit>
+      <trans-unit id="Select Load Profile data">
+        <source>Select Load Profile data</source>
+        <target>Sélectionnez Charger les données du profil</target>
+      </trans-unit>
+      <trans-unit id="Select a meter for visualisation">
+        <source>Select a meter for visualisation</source>
+        <target>Sélectionnez un compteur pour la visualisation</target>
+      </trans-unit>
+      <trans-unit id="Apply">
+        <source>Apply</source>
+        <target>Appliquer</target>
+      </trans-unit>
+      <trans-unit id="Home">
+        <source>Home</source>
+        <target>Accueil</target>
+      </trans-unit>
+      <trans-unit id="View Meters">
+        <source>View Meters</source>
+        <target>Voir les mètres</target>
+      </trans-unit>
+      <trans-unit id="5bc227e4b5c519f9dfcc5ea17eb8e01c46ebb21c">
+        <source>5bc227e4b5c519f9dfcc5ea17eb8e01c46ebb21c</source>
+        <target>5bc227e4b5c519f9dfcc5ea17eb8e01c46ebb21c</target>
+        <note>@Meter Associations</note>
+      </trans-unit>
+      <trans-unit id="Load Profile">
+        <source>Load Profile</source>
+        <target>Charger le profil</target>
+      </trans-unit>
+      <trans-unit id="Alerts">
+        <source>Alerts</source>
+        <target>Les alertes</target>
+      </trans-unit>
+      <trans-unit id="Manage Access">
+        <source>Manage Access</source>
+        <target>Gérer l'accès</target>
+      </trans-unit>
+      <trans-unit id="Logout">
+        <source>Logout</source>
+        <target>Connectez - Out</target>
+      </trans-unit>
+      <trans-unit id="Search meters...">
+        <source>Search meters...</source>
+        <target>Rechercher des mètres ...</target>
+      </trans-unit>
+      <trans-unit id="Something went wrong with the last request">
+        <source>最後一個請求出了問題</source>
+        <target>Quelque chose s'est mal passé lors de la dernière demande</target>
+      </trans-unit>
+      <trans-unit id="E-MAIL">
+        <source>電子郵件</source>
+        <target>EMAIL</target>
+      </trans-unit>
+      <trans-unit id="PASSWORD">
+        <source>密碼</source>
+        <target>MOT DE PASSE</target>
+      </trans-unit>
+      <trans-unit id="2863849aae334d516b47133a0995e966e067b161">
+        <source>2863849aae334d516b47133a0995e966e067b161</source>
+        <target>2863849aae334d516b47133a0995e966e067b161</target>
+        <note>CURRENT PASSWORD</note>
+      </trans-unit>
+      <trans-unit id="NEW PASSWORD">
+        <source>新密碼</source>
+        <target>NOUVEAU MOT DE PASSE</target>
+      </trans-unit>
+      <trans-unit id="CONFIRM NEW PASSWORD">
+        <source>確認新密碼</source>
+        <target>CONFIRMER LE NOUVEAU MOT DE PASSE</target>
+      </trans-unit>
+      <trans-unit id="Password must be at least 6 characters">
+        <source>密碼必須至少6個字符</source>
+        <target>Le mot de passe doit être au moins de 6 caractères</target>
+      </trans-unit>
+      <trans-unit id="Back to login">
+        <source>回到登入</source>
+        <target>Retour connexion</target>
+      </trans-unit>
+      <trans-unit id="Create New Password">
+        <source>創建新密碼</source>
+        <target>Créer un nouveau mot de passe</target>
+      </trans-unit>
+      <trans-unit id="Email not found">
+        <source>電子郵件找不到</source>
+        <target>Email non trouvé</target>
+      </trans-unit>
+      <trans-unit id="Restore My Password">
+        <source>恢復我的密碼</source>
+        <target>Restaurer mon mot de passe</target>
+      </trans-unit>
+      <trans-unit id="Password Sent To Your Email">
+        <source>密碼發送到您的電子郵件</source>
+        <target>Mot de passe envoyé à votre email</target>
+      </trans-unit>
+      <trans-unit id="You've successfully updated your password on your account">
+        <source>您已成功更新帳戶中的密碼</source>
+        <target>Vous avez mis à jour votre mot de passe avec succès sur votre compte</target>
+      </trans-unit>
+      <trans-unit id="It looks like this page doesn't exist yet.">
+        <source>看起來這個頁面還不存在。</source>
+        <target>Il semble que cette page n'existe pas encore.</target>
+      </trans-unit>
+      <trans-unit id="Navigate Home">
+        <source>導航回家</source>
+        <target>Naviguer à la maison</target>
+      </trans-unit>
+      <trans-unit id="Fan ID">
+        <source>粉絲ID</source>
+        <target>Fan ID</target>
+      </trans-unit>
+      <trans-unit id="FAN State">
+        <source>范國家</source>
+        <target>Etat du FAN</target>
+      </trans-unit>
+      <trans-unit id="Meter State">
+        <source>米州</source>
+        <target>Etat du compteur</target>
+      </trans-unit>
+      <trans-unit id="Create Account">
+        <source>創建帳號</source>
+        <target>Créer un compte</target>
+      </trans-unit>
+      <trans-unit id="Command (AT or HEX)">
+        <source>命令（AT或HEX）</source>
+        <target>Commande (AT ou HEX)</target>
+      </trans-unit>
+      <trans-unit id="Invalid HEX string">
+        <source>無效的HEX字符串</source>
+        <target>Chaîne HEX invalide</target>
+      </trans-unit>
+      <trans-unit id="Invalid AT command string">
+        <source>AT命令字符串無效</source>
+        <target>Chaîne de commande AT non valide</target>
+      </trans-unit>
+      <trans-unit id="Send Command">
+        <source>發送命令</source>
+        <target>Envoyer la commande</target>
+      </trans-unit>
+      <trans-unit id="From date">
+        <source>從日期</source>
+        <target>Partir de la date</target>
+      </trans-unit>
+      <trans-unit id="From time">
+        <source>從時間</source>
+        <target>De temps</target>
+      </trans-unit>
+      <trans-unit id="To date">
+        <source>至今</source>
+        <target>À ce jour</target>
+      </trans-unit>
+      <trans-unit id="To time">
+        <source>到時候了</source>
+        <target>Au temps</target>
+      </trans-unit>
+      <trans-unit id="Send Query">
+        <source>發送查詢</source>
+        <target>Envoyer une requête</target>
+      </trans-unit>
+      <trans-unit id="Close">
+        <source>關</source>
+        <target>Fermer</target>
+      </trans-unit>
+      <trans-unit id="All groups">
+        <source>所有團體</source>
+        <target>Tous les groupes</target>
+      </trans-unit>
+      <trans-unit id="Select a group...">
+        <source>選擇一個組......</source>
+        <target>Sélectionnez un groupe ...</target>
+      </trans-unit>
+      <trans-unit id="Search...">
+        <source>搜索...</source>
+        <target>Chercher...</target>
+      </trans-unit>
+      <trans-unit id="Query Load Profile">
+        <source>查詢負載配置文件</source>
+        <target>Profil de charge de requête</target>
+      </trans-unit>
+      <trans-unit id="Import">
+        <source>進口</source>
+        <target>Importation</target>
+      </trans-unit>
+      <trans-unit id="CSV fields: MeterID, GUK, AK, Address (optional), Coords (optional), Notes (optional)">
+        <source>CSV字段：MeterID，GUK，AK，地址（可選），Coords（可選），Notes（可選）</source>
+        <target>Champs CSV: MeterID, GUK, AK, Adresse (facultatif), Coords (facultatif), Notes (facultatif).</target>
+      </trans-unit>
+      <trans-unit id="File imported successfully">
+        <source>文件導入成功</source>
+        <target>Fichier importé avec succès</target>
+      </trans-unit>
+      <trans-unit id="There was a problem in with the file format, at position:">
+        <source>文件格式存在問題，位置：</source>
+        <target>Il y avait un problème avec le format de fichier, à la position:</target>
+      </trans-unit>
+      <trans-unit id="The selected file is empty">
+        <source>所選文件為空</source>
+        <target>Le fichier sélectionné est vide</target>
+      </trans-unit>
+      <trans-unit id="Filter Meter IDs">
+        <source>過濾儀表ID</source>
+        <target>Filtrer les identifiants</target>
+      </trans-unit>
+      <trans-unit id="Found $NUM_METERS Meters">
+        <source>找到$ NUM_METERS米</source>
+        <target>Trouvé $ NUM_METERS mètres</target>
+      </trans-unit>
+      <trans-unit id="Reading">
+        <source>讀</source>
+        <target>En train de lire</target>
+      </trans-unit>
+      <trans-unit id="Accounts">
+        <source>帳號</source>
+        <target>Comptes</target>
+      </trans-unit>
+      <trans-unit id="Edit account">
+        <source>編輯賬戶</source>
+        <target>Modifier le compte</target>
+      </trans-unit>
+      <trans-unit id="Change Language">
+        <source>改變語言</source>
+        <target>Changer de langue</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

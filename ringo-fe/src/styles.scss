@@ -1,0 +1,335 @@
+
+/* You can add global styles to this file, and also import other style files */
+@import 'assets/reset.css';
+@import './ringo-theme.scss';
+@import '~@angular/material/theming';
+
+:root {
+  --background-color: rgba(245, 245, 245, 1);
+  --widget-color: rgb(98, 99, 100);
+  --header-color: black;
+  --roundedness: 5px;
+}
+
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 16px;
+  color: var(--widget-color);
+  background-color: var(--background-color);
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  line-height: 1.5;
+}
+
+input {
+  border: none;
+  outline: none;
+  padding: 0.75rem;
+  background-color: var(--background-color);
+  width: 100%;
+}
+
+autofill
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active  {
+  -webkit-box-shadow: 0 0 0 30px var(--background-color)  inset !important;
+}
+
+.mat-flat-button {
+  background-color: #BF0000;
+  color: white;
+  padding-top: 0.45rem!important;
+  padding-bottom: 0.4rem!important;
+  border-radius: 0.75rem!important;
+}
+
+.mat-select-value {
+  font-size: 13px;
+  color: #31345B;
+
+}
+
+button {
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  padding: 1rem;
+  background-color: var(--widget-color);
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  width: 100%;
+}
+
+.mat-dialog-actions button {
+  width: 48%;
+  margin-bottom: 1rem;
+}
+
+.red {
+  background-color: #BF0000;
+}
+
+.mat-chip.mat-standard-chip {
+  box-shadow: 1px 1px 5px 1px rgba(191, 0, 0, 0.05);
+}
+
+.mat-select-panel {
+  border-radius: 0.75rem!important;
+  box-shadow: 1px 1px 5px 1px rgba(191, 0, 0, 0.05) !important;
+}
+
+.mat-menu-panel {
+  padding: 0.5rem!important;
+  border-radius: 0.75rem!important;
+  box-shadow: 1px 1px 5px 1px rgba(191, 0, 0, 0.05);
+}
+
+.mat-flat-button.outline {
+  background-color: transparent;
+  border: #BF0000 solid 2px;
+  color: #BF0000;
+}
+
+.mat-flat-button.cancel {
+  background-color: transparent;
+  color: #31345B;
+  border: #31345B solid 2px;
+}
+
+button:disabled {
+  background-color: #f5f5f5;
+}
+
+button:hover:enabled {
+  cursor: pointer;
+}
+
+//label {
+//  color: var(--font-color);
+//  font-weight: bold;
+//  font-size: xx-small;
+//  text-transform: uppercase;
+//}
+
+img {
+  width: 160px;
+  height: 28px;
+  position: absolute;
+  right: 0;
+  left: 0;
+  margin: 20px auto auto auto;
+}
+
+p {
+  color: rgba(49, 52, 91, 1);
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+h1 {
+  text-align: center;
+  color: rgba(49, 52, 91, 1);
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+a {
+  color: var(--font-color);
+  font-weight: normal;
+  font-size: 1rem;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.title {
+  color: rgba(49, 52, 91, 1);
+  font-size: 1rem;
+}
+
+.title h2 {
+  font-weight: normal;
+  text-align: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+
+.title span {
+  font-weight: 300;
+}
+
+table {
+  width: 100%;
+  background: transparent!important;
+  box-shadow: none!important;
+}
+
+mat-paginator {
+  background: transparent!important;
+}
+
+.mat-dialog-container {
+  border-radius: 0.75rem!important;
+  box-shadow: 1px 1px 5px 1px rgba(191, 0, 0, 0.05);
+  width: 24rem!important;
+  padding: 2rem!important;
+}
+
+.mat-dialog-actions {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap!important;
+  justify-content: space-between;
+}
+
+.mat-dialog-content {
+  max-height: none!important;
+  overflow: visible!important;
+}
+
+.card {
+  color: var(--widget-color);
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-content {
+  border: 5px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 1px 1px 5px 1px rgba(191, 0, 0, 0.05);
+  padding: 2.5rem;
+}
+
+.card h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 1rem;
+  padding: 3rem 0;
+}
+
+.card-actions button {
+  width: 100%;
+}
+
+.mat-form-field-prefix {
+  padding-right: 0.5rem;
+}
+
+::ng-deep .mat-form-field-appearance-legacy .mat-form-field-underline {
+  height: 0!important;
+}
+
+.loading {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(207, 207, 207, 0.75);
+
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+  justify-items: center;
+  align-items: center;
+  z-index: 99999;
+}
+
+// spinner
+.lds-spinner {
+  display: inline-block;
+  position: relative;
+  width: 64px;
+  height: 64px;
+}
+.lds-spinner div {
+  transform-origin: 32px 32px;
+  animation: lds-spinner 1.2s linear infinite;
+}
+.lds-spinner div:after {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 3px;
+  left: 29px;
+  width: 5px;
+  height: 14px;
+  border-radius: 20%;
+  background: #fff;
+}
+.lds-spinner div:nth-child(1) {
+  transform: rotate(0deg);
+  animation-delay: -1.1s;
+}
+.lds-spinner div:nth-child(2) {
+  transform: rotate(30deg);
+  animation-delay: -1s;
+}
+.lds-spinner div:nth-child(3) {
+  transform: rotate(60deg);
+  animation-delay: -0.9s;
+}
+.lds-spinner div:nth-child(4) {
+  transform: rotate(90deg);
+  animation-delay: -0.8s;
+}
+.lds-spinner div:nth-child(5) {
+  transform: rotate(120deg);
+  animation-delay: -0.7s;
+}
+.lds-spinner div:nth-child(6) {
+  transform: rotate(150deg);
+  animation-delay: -0.6s;
+}
+.lds-spinner div:nth-child(7) {
+  transform: rotate(180deg);
+  animation-delay: -0.5s;
+}
+.lds-spinner div:nth-child(8) {
+  transform: rotate(210deg);
+  animation-delay: -0.4s;
+}
+.lds-spinner div:nth-child(9) {
+  transform: rotate(240deg);
+  animation-delay: -0.3s;
+}
+.lds-spinner div:nth-child(10) {
+  transform: rotate(270deg);
+  animation-delay: -0.2s;
+}
+.lds-spinner div:nth-child(11) {
+  transform: rotate(300deg);
+  animation-delay: -0.1s;
+}
+.lds-spinner div:nth-child(12) {
+  transform: rotate(330deg);
+  animation-delay: 0s;
+}
+@keyframes lds-spinner {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

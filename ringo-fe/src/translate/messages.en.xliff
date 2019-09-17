@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="ng2.template" datatype="plaintext" xml:space="preserve" source-language="en-us" target-language="en-us">
+    <header>
+      <tool tool-id="poeditor.com" tool-name="POEditor"/>
+    </header>
+    <body>
+      <trans-unit id="Login">
+        <source>LOGIN</source>
+        <target>LOGIN</target>
+      </trans-unit>
+      <trans-unit id="Email">
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="Password">
+        <source>Password</source>
+        <target>Password</target>
+      </trans-unit>
+      <trans-unit id="Invalid credentials">
+        <source>Invalid credentials</source>
+        <target>Invalid credentials</target>
+      </trans-unit>
+      <trans-unit id="Forgot password?">
+        <source>Forgot password</source>
+        <target>Forgot password</target>
+      </trans-unit>
+      <trans-unit id="Current password">
+        <source>Current password</source>
+        <target>Current password</target>
+      </trans-unit>
+      <trans-unit id="New password">
+        <source>New password</source>
+        <target>New password</target>
+      </trans-unit>
+      <trans-unit id="Confirm new password">
+        <source>Confirm new password</source>
+        <target>Confirm new password</target>
+      </trans-unit>
+      <trans-unit id="Passwords do not match">
+        <source>Passwords do not match</source>
+        <target>Passwords do not match</target>
+      </trans-unit>
+      <trans-unit id="Password was changed">
+        <source>Password was changed</source>
+        <target>Password was changed</target>
+      </trans-unit>
+      <trans-unit id="Submit">
+        <source>Change</source>
+        <target>Change</target>
+      </trans-unit>
+      <trans-unit id="Success">
+        <source>Success</source>
+        <target>Success</target>
+      </trans-unit>
+      <trans-unit id="Password change successful">
+        <source>Password change successful</source>
+        <target>Password change successful</target>
+      </trans-unit>
+      <trans-unit id="Send Password Reset Link">
+        <source>Restore Password</source>
+        <target>Restore Password</target>
+      </trans-unit>
+      <trans-unit id="Done. Please check your email.">
+        <source>Done. Please check your email.</source>
+        <target>Done. Please check your email.</target>
+      </trans-unit>
+      <trans-unit id="Users">
+        <source>Users</source>
+        <target>Users</target>
+      </trans-unit>
+      <trans-unit id="Name">
+        <source>Name</source>
+        <target>Name</target>
+      </trans-unit>
+      <trans-unit id="Role">
+        <source>Role</source>
+        <target>Role</target>
+      </trans-unit>
+      <trans-unit id="Actions">
+        <source>Actions</source>
+        <target>Actions</target>
+      </trans-unit>
+      <trans-unit id="Delete user">
+        <source>Delete user</source>
+        <target>Delete user</target>
+      </trans-unit>
+      <trans-unit id="Edit meter associations">
+        <source>Edit meter associations</source>
+        <target>Edit meter associations</target>
+      </trans-unit>
+      <trans-unit id="Create User">
+        <source>Create User</source>
+        <target>Create User</target>
+      </trans-unit>
+      <trans-unit id="Real name">
+        <source>Real name</source>
+        <target>Real name</target>
+      </trans-unit>
+      <trans-unit id="Email address">
+        <source>Email address</source>
+        <target>Email address</target>
+      </trans-unit>
+      <trans-unit id="Account created">
+        <source>Account created</source>
+        <target>Account created</target>
+      </trans-unit>
+      <trans-unit id="Manager Account Associations">
+        <source>Manager Account Associations</source>
+        <target>Manager Account Associations</target>
+      </trans-unit>
+      <trans-unit id="this Association">
+        <source>this Association</source>
+        <target>this Association</target>
+      </trans-unit>
+      <trans-unit id="Associate Meter">
+        <source>Associate Meter</source>
+        <target>Associate Meter</target>
+      </trans-unit>
+      <trans-unit id="Meter ID">
+        <source>Meter ID</source>
+        <target>Meter ID</target>
+      </trans-unit>
+      <trans-unit id="Association saved">
+        <source>Association saved</source>
+        <target>Association saved</target>
+      </trans-unit>
+      <trans-unit id="Change Password">
+        <source>Change Password</source>
+        <target>Change Password</target>
+      </trans-unit>
+      <trans-unit id="Create Meter Record">
+        <source>Create Meter Record</source>
+        <target>Create Meter Record</target>
+      </trans-unit>
+      <trans-unit id="Edit Meter Record">
+        <source>Edit Meter Record</source>
+        <target>Edit Meter Record</target>
+      </trans-unit>
+      <trans-unit id="IMSI">
+        <source>IMSI</source>
+        <target>IMSI</target>
+      </trans-unit>
+      <trans-unit id="GUK">
+        <source>GUK</source>
+        <target>GUK</target>
+      </trans-unit>
+      <trans-unit id="AK">
+        <source>AK</source>
+        <target>AK</target>
+      </trans-unit>
+      <trans-unit id="Coordinates">
+        <source>Coordinates</source>
+        <target>Coordinates</target>
+      </trans-unit>
+      <trans-unit id="Address">
+        <source>Address</source>
+        <target>Address</target>
+      </trans-unit>
+      <trans-unit id="Notes">
+        <source>Notes</source>
+        <target>Notes</target>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Cancel</target>
+      </trans-unit>
+      <trans-unit id="Meters">
+        <source>Meters</source>
+        <target>Meters</target>
+      </trans-unit>
+      <trans-unit id="Add Meter">
+        <source>Add Meter</source>
+        <target>Add Meter</target>
+      </trans-unit>
+      <trans-unit id="Meter Key Upload">
+        <source>Meter Key Upload</source>
+        <target>Meter Key Upload</target>
+      </trans-unit>
+      <trans-unit id="File type supported: CSV">
+        <source>File type supported: CSV</source>
+        <target>File type supported: CSV</target>
+      </trans-unit>
+      <trans-unit id="File format: TAB separated">
+        <source>File format: TAB separated</source>
+        <target>File format: TAB separated</target>
+      </trans-unit>
+      <trans-unit id="CSV fields: MeterID, IMSI, GUK, AK, Address (optional), Coords (optional), Notes (optional)">
+        <source>CSV fields: MeterID, IMSI, GUK, AK, Address (optional), Coords (optional), Notes (optional)</source>
+        <target>CSV fields: MeterID, IMSI, GUK, AK, Address (optional), Coords (optional), Notes (optional)</target>
+      </trans-unit>
+      <trans-unit id="Choose file">
+        <source>Choose file</source>
+        <target>Choose file</target>
+      </trans-unit>
+      <trans-unit id="Updated">
+        <source>Updated</source>
+        <target>Updated</target>
+      </trans-unit>
+      <trans-unit id="Upload">
+        <source>Upload</source>
+        <target>Upload</target>
+      </trans-unit>
+      <trans-unit id="Load Profile Chart">
+        <source>Load Profile Chart</source>
+        <target>Load Profile Chart</target>
+      </trans-unit>
+      <trans-unit id="Filter">
+        <source>Filter</source>
+        <target>Filter</target>
+      </trans-unit>
+      <trans-unit id="15 Minute">
+        <source>15 Minute</source>
+        <target>15 Minute</target>
+      </trans-unit>
+      <trans-unit id="Inteval">
+        <source>Inteval</source>
+        <target>Inteval</target>
+      </trans-unit>
+      <trans-unit id="Browse Load Profile Data">
+        <source>Browse Load Profile Data</source>
+        <target>Browse Load Profile Data</target>
+      </trans-unit>
+      <trans-unit id="Time">
+        <source>Time</source>
+        <target>Time</target>
+      </trans-unit>
+      <trans-unit id="Export Data">
+        <source>Export Data</source>
+        <target>Export Data</target>
+      </trans-unit>
+      <trans-unit id="Choose a start date">
+        <source>Choose a start date</source>
+        <target>Choose a start date</target>
+      </trans-unit>
+      <trans-unit id="Choose an end date">
+        <source>Choose an end date</source>
+        <target>Choose an end date</target>
+      </trans-unit>
+      <trans-unit id="Download Export File">
+        <source>Download Export File</source>
+        <target>Download Export File</target>
+      </trans-unit>
+      <trans-unit id="No">
+        <source>No</source>
+        <target>No</target>
+      </trans-unit>
+      <trans-unit id="Yes">
+        <source>Yes</source>
+        <target>Yes</target>
+      </trans-unit>
+      <trans-unit id="State">
+        <source>State</source>
+        <target>State</target>
+      </trans-unit>
+      <trans-unit id="Registered">
+        <source>Registered</source>
+        <target>Registered</target>
+      </trans-unit>
+      <trans-unit id="Authenticated">
+        <source>Authenticated</source>
+        <target>Authenticated</target>
+      </trans-unit>
+      <trans-unit id="Last Seen">
+        <source>Last Seen</source>
+        <target>Last Seen</target>
+      </trans-unit>
+      <trans-unit id="Show More">
+        <source>Show More</source>
+        <target>Show More</target>
+      </trans-unit>
+      <trans-unit id="Show Less">
+        <source>Show Less</source>
+        <target>Show Less</target>
+      </trans-unit>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <target>Delete</target>
+      </trans-unit>
+      <trans-unit id="Edit">
+        <source>Edit</source>
+        <target>Edit</target>
+      </trans-unit>
+      <trans-unit id="Ubiik Power Meter Management System">
+        <source>Ubiik Power Meter Management System</source>
+        <target>Ubiik Power Meter Management System</target>
+      </trans-unit>
+      <trans-unit id="Select Load Profile data">
+        <source>Select Load Profile data</source>
+        <target>Select Load Profile data</target>
+      </trans-unit>
+      <trans-unit id="Select a meter for visualisation">
+        <source>Select a meter for visualisation</source>
+        <target>Select a meter for visualisation</target>
+      </trans-unit>
+      <trans-unit id="Apply">
+        <source>Apply</source>
+        <target>Apply</target>
+      </trans-unit>
+      <trans-unit id="Home">
+        <source>Home</source>
+        <target>Home</target>
+      </trans-unit>
+      <trans-unit id="View Meters">
+        <source>View Meters</source>
+        <target>View Meters</target>
+      </trans-unit>
+      <trans-unit id="5bc227e4b5c519f9dfcc5ea17eb8e01c46ebb21c">
+        <source>5bc227e4b5c519f9dfcc5ea17eb8e01c46ebb21c</source>
+        <target>5bc227e4b5c519f9dfcc5ea17eb8e01c46ebb21c</target>
+        <note>@Meter Associations</note>
+      </trans-unit>
+      <trans-unit id="Load Profile">
+        <source>Load Profile</source>
+        <target>Load Profile</target>
+      </trans-unit>
+      <trans-unit id="Alerts">
+        <source>Alerts</source>
+        <target>Alerts</target>
+      </trans-unit>
+      <trans-unit id="Manage Access">
+        <source>Manage Access</source>
+        <target>Manage Access</target>
+      </trans-unit>
+      <trans-unit id="Logout">
+        <source>Logout</source>
+        <target>Logout</target>
+      </trans-unit>
+      <trans-unit id="Search meters...">
+        <source>Search meters...</source>
+        <target>Search meters...</target>
+      </trans-unit>
+      <trans-unit id="Something went wrong with the last request">
+        <source>Something went wrong with the last request</source>
+        <target>Something went wrong with the last request</target>
+      </trans-unit>
+      <trans-unit id="E-MAIL">
+        <source>E-MAIL</source>
+        <target>E-MAIL</target>
+      </trans-unit>
+      <trans-unit id="PASSWORD">
+        <source>PASSWORD</source>
+        <target>PASSWORD</target>
+      </trans-unit>
+      <trans-unit id="2863849aae334d516b47133a0995e966e067b161">
+        <source>2863849aae334d516b47133a0995e966e067b161</source>
+        <target>2863849aae334d516b47133a0995e966e067b161</target>
+        <note>CURRENT PASSWORD</note>
+      </trans-unit>
+      <trans-unit id="NEW PASSWORD">
+        <source>NEW PASSWORD</source>
+        <target>NEW PASSWORD</target>
+      </trans-unit>
+      <trans-unit id="CONFIRM NEW PASSWORD">
+        <source>CONFIRM NEW PASSWORD</source>
+        <target>CONFIRM NEW PASSWORD</target>
+      </trans-unit>
+      <trans-unit id="Password must be at least 6 characters">
+        <source>Password must be at least 6 characters</source>
+        <target>Password must be at least 6 characters</target>
+      </trans-unit>
+      <trans-unit id="Back to login">
+        <source>Cancel</source>
+        <target>Cancel</target>
+      </trans-unit>
+      <trans-unit id="Create New Password">
+        <source>Create New Password</source>
+        <target>Create New Password</target>
+      </trans-unit>
+      <trans-unit id="Email not found">
+        <source>Email not found</source>
+        <target>Email not found</target>
+      </trans-unit>
+      <trans-unit id="Restore My Password">
+        <source>Restore My Password</source>
+        <target>Restore My Password</target>
+      </trans-unit>
+      <trans-unit id="Password Sent To Your Email">
+        <source>Password Sent To Your Email</source>
+        <target>Password Sent To Your Email</target>
+      </trans-unit>
+      <trans-unit id="You've successfully updated your password on your account">
+        <source>You've successfully updated your password on your account</source>
+        <target>You've successfully updated your password on your account</target>
+      </trans-unit>
+      <trans-unit id="It looks like this page doesn't exist yet.">
+        <source>It looks like this page doesn't exist yet.</source>
+        <target>It looks like this page doesn't exist yet.</target>
+      </trans-unit>
+      <trans-unit id="Navigate Home">
+        <source>Navigate Home</source>
+        <target>Navigate Home</target>
+      </trans-unit>
+      <trans-unit id="Fan ID">
+        <source>Fan ID</source>
+        <target>Fan ID</target>
+      </trans-unit>
+      <trans-unit id="FAN State">
+        <source>FAN State</source>
+        <target>FAN State</target>
+      </trans-unit>
+      <trans-unit id="Meter State">
+        <source>Meter State</source>
+        <target>Meter State</target>
+      </trans-unit>
+      <trans-unit id="Create Account">
+        <source>Send Command</source>
+        <target>Send Command</target>
+      </trans-unit>
+      <trans-unit id="Command (AT or HEX)">
+        <source>Command (AT or HEX)</source>
+        <target>Command (AT or HEX)</target>
+      </trans-unit>
+      <trans-unit id="Invalid HEX string">
+        <source>Invalid HEX string</source>
+        <target>Invalid HEX string</target>
+      </trans-unit>
+      <trans-unit id="Invalid AT command string">
+        <source>Invalid AT command string</source>
+        <target>Invalid AT command string</target>
+      </trans-unit>
+      <trans-unit id="Send Command">
+        <source>Send Command</source>
+        <target>Send Command</target>
+      </trans-unit>
+      <trans-unit id="From date">
+        <source>From date</source>
+        <target>From date</target>
+      </trans-unit>
+      <trans-unit id="From time">
+        <source>From time</source>
+        <target>From time</target>
+      </trans-unit>
+      <trans-unit id="To date">
+        <source>To date</source>
+        <target>To date</target>
+      </trans-unit>
+      <trans-unit id="To time">
+        <source>To time</source>
+        <target>To time</target>
+      </trans-unit>
+      <trans-unit id="Send Query">
+        <source>Send Query</source>
+        <target>Send Query</target>
+      </trans-unit>
+      <trans-unit id="Close">
+        <source>Close</source>
+        <target>Close</target>
+      </trans-unit>
+      <trans-unit id="All groups">
+        <source>All groups</source>
+        <target>All groups</target>
+      </trans-unit>
+      <trans-unit id="Select a group...">
+        <source>Select a group...</source>
+        <target>Select a group...</target>
+      </trans-unit>
+      <trans-unit id="Search...">
+        <source>Search...</source>
+        <target>Search...</target>
+      </trans-unit>
+      <trans-unit id="Query Load Profile">
+        <source>Show Load Profile</source>
+        <target>Show Load Profile</target>
+      </trans-unit>
+      <trans-unit id="Import">
+        <source>Import</source>
+        <target>Import</target>
+      </trans-unit>
+      <trans-unit id="CSV fields: MeterID, GUK, AK, Address (optional), Coords (optional), Notes (optional)">
+        <source>CSV fields: MeterID, GUK, AK, Address (optional), Coords (optional), Notes (optional)</source>
+        <target>CSV fields: MeterID, GUK, AK, Address (optional), Coords (optional), Notes (optional)</target>
+      </trans-unit>
+      <trans-unit id="File imported successfully">
+        <source>File imported successfully</source>
+        <target>File imported successfully</target>
+      </trans-unit>
+      <trans-unit id="There was a problem in with the file format, at position:">
+        <source>There was a problem in with the file format, at position:</source>
+        <target>There was a problem in with the file format, at position:</target>
+      </trans-unit>
+      <trans-unit id="The selected file is empty">
+        <source>The selected file is empty</source>
+        <target>The selected file is empty</target>
+      </trans-unit>
+      <trans-unit id="Filter Meter IDs">
+        <source>Filter Meter IDs</source>
+        <target>Filter Meter IDs</target>
+      </trans-unit>
+      <trans-unit id="Found $NUM_METERS Meters">
+        <source>Found Meters</source>
+        <target>Found Meters</target>
+      </trans-unit>
+      <trans-unit id="Reading">
+        <source>Reading</source>
+        <target>Reading</target>
+      </trans-unit>
+      <trans-unit id="Accounts">
+        <source>Accounts</source>
+        <target>Accounts</target>
+      </trans-unit>
+      <trans-unit id="Edit account">
+        <source>Edit account</source>
+        <target>Edit account</target>
+      </trans-unit>
+      <trans-unit id="Change Language">
+        <source>Change Language</source>
+        <target>Change Language</target>
+      </trans-unit>
+      <trans-unit id="Password failed complexity requirement">
+        <source>Password failed complexity requirement</source>
+        <target>Password failed complexity requirement</target>
+      </trans-unit>
+      <trans-unit id="Invalid username or password">
+        <source>Invalid username or password</source>
+        <target>Invalid username or password</target>
+      </trans-unit>
+      <trans-unit id="Error encrypting password">
+        <source>Error encrypting password</source>
+        <target>Error encrypting password</target>
+      </trans-unit>
+      <trans-unit id="A database error occurred">
+        <source>A database error occurred</source>
+        <target>A database error occurred</target>
+      </trans-unit>
+      <trans-unit id="Error decoding data chunk">
+        <source>Error decoding data chunk</source>
+        <target>Error decoding data chunk</target>
+      </trans-unit>
+      <trans-unit id="Error sending email">
+        <source>Error sending email</source>
+        <target>Error sending email</target>
+      </trans-unit>
+      <trans-unit id="Error decoding data">
+        <source>Error decoding data</source>
+        <target>Error decoding data</target>
+      </trans-unit>
+      <trans-unit id="Error generating token">
+        <source>Error generating token</source>
+        <target>Error generating token</target>
+      </trans-unit>
+      <trans-unit id="Input was not HEX formatted">
+        <source>Input was not HEX formatted</source>
+        <target>Input was not HEX formatted</target>
+      </trans-unit>
+      <trans-unit id="Error reading IMPACT resonse">
+        <source>Error reading IMPACT resonse</source>
+        <target>Error reading IMPACT resonse</target>
+      </trans-unit>
+      <trans-unit id="Invalid HTTP code from IMPACT">
+        <source>Invalid HTTP code from IMPACT</source>
+        <target>Invalid HTTP code from IMPACT</target>
+      </trans-unit>
+      <trans-unit id="Network error communicating with IMPACT">
+        <source>Network error communicating with IMPACT</source>
+        <target>Network error communicating with IMPACT</target>
+      </trans-unit>
+      <trans-unit id="Error decoding IMPACT request">
+        <source>Error decoding IMPACT response</source>
+        <target>Error decoding IMPACT response</target>
+      </trans-unit>
+      <trans-unit id="Bad HTTP response code from IMPACT">
+        <source>Bad HTTP response code from IMPACT</source>
+        <target>Bad HTTP response code from IMPACT</target>
+      </trans-unit>
+      <trans-unit id="Could not decode IMPACT response">
+        <source>Could not decode IMPACT response</source>
+        <target>Could not decode IMPACT response</target>
+      </trans-unit>
+      <trans-unit id="Command too short">
+        <source>Command too short</source>
+        <target>Command too short</target>
+      </trans-unit>
+      <trans-unit id="Password does not match">
+        <source>Password does not match</source>
+        <target>Password does not match</target>
+      </trans-unit>
+      <trans-unit id="User not found">
+        <source>User not found</source>
+        <target>User not found</target>
+      </trans-unit>
+      <trans-unit id="There was a problem with the backend request">
+        <source>There was a problem with the backend request</source>
+        <target>There was a problem with the backend request</target>
+      </trans-unit>
+      <trans-unit id="Invalid role">
+        <source>Invalid role</source>
+        <target>Invalid role</target>
+      </trans-unit>
+      <trans-unit id="Cannot update root account info, use reset password instead">
+        <source>Cannot update root account info, use reset password instead</source>
+        <target>Cannot update root account info, use reset password instead</target>
+      </trans-unit>
+      <trans-unit id="Could not create temporary file">
+        <source>Could not create temporary file</source>
+        <target>Could not create temporary file</target>
+      </trans-unit>
+      <trans-unit id="Could not write temporary file">
+        <source>Could not write temporary file</source>
+        <target>Could not write temporary file</target>
+      </trans-unit>
+      <trans-unit id="Could not write ZIP file">
+        <source>Could not write ZIP file</source>
+        <target>Could not write ZIP file</target>
+      </trans-unit>
+      <trans-unit id="No FANs were selected, please select meters with associated FANs to continue">
+        <source>No FANs were selected, please select meters with associated FANs to continue</source>
+        <target>No FANs were selected, please select meters with associated FANs to continue</target>
+      </trans-unit>
+      <trans-unit id="Received">
+        <source>Received</source>
+        <target>Received</target>
+      </trans-unit>
+      <trans-unit id="Status">
+        <source>Status</source>
+        <target>Status</target>
+      </trans-unit>
+      <trans-unit id="FAN ID">
+        <source>FAN ID</source>
+        <target>FAN ID</target>
+      </trans-unit>
+      <trans-unit id="Record ID">
+        <source>Record ID</source>
+        <target>Record ID</target>
+      </trans-unit>
+      <trans-unit id="Export Data By Date Range">
+        <source>Export Data By Date Range</source>
+        <target>Export Data By Date Range</target>
+      </trans-unit>
+      <trans-unit id="Generate Export File">
+        <source>Generate Export File</source>
+        <target>Generate Export File</target>
+      </trans-unit>
+      <trans-unit id="Delete account">
+        <source>Delete account</source>
+        <target>Delete account</target>
+      </trans-unit>
+      <trans-unit id="Edit Account">
+        <source>Edit Account</source>
+        <target>Edit Account</target>
+      </trans-unit>
+      <trans-unit id="Create account">
+        <source>Create account</source>
+        <target>Create account</target>
+      </trans-unit>
+      <trans-unit id="CURRENT PASSWORD">
+        <source>CURRENT PASSWORD</source>
+        <target>CURRENT PASSWORD</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

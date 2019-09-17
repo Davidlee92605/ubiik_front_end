@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="ng2.template" datatype="plaintext" xml:space="preserve" source-language="en-us" target-language="zh-Hant">
+    <header>
+      <tool tool-id="poeditor.com" tool-name="POEditor"/>
+    </header>
+    <body>
+      <trans-unit id="Login">
+        <source>LOGIN</source>
+        <target>登入</target>
+      </trans-unit>
+      <trans-unit id="Email">
+        <source>Email</source>
+        <target>電子郵件</target>
+      </trans-unit>
+      <trans-unit id="Password">
+        <source>Password</source>
+        <target>密碼</target>
+      </trans-unit>
+      <trans-unit id="Invalid credentials">
+        <source>Invalid credentials</source>
+        <target>無效證件</target>
+      </trans-unit>
+      <trans-unit id="Forgot password?">
+        <source>Forgot password</source>
+        <target>忘記密碼?</target>
+      </trans-unit>
+      <trans-unit id="Current password">
+        <source>Current password</source>
+        <target>目前密碼</target>
+      </trans-unit>
+      <trans-unit id="New password">
+        <source>New password</source>
+        <target>新的密碼</target>
+      </trans-unit>
+      <trans-unit id="Confirm new password">
+        <source>Confirm new password</source>
+        <target>確認新的密碼</target>
+      </trans-unit>
+      <trans-unit id="Passwords do not match">
+        <source>Passwords do not match</source>
+        <target>密碼不符合</target>
+      </trans-unit>
+      <trans-unit id="Password was changed">
+        <source>Password was changed</source>
+        <target>密碼已經修改</target>
+      </trans-unit>
+      <trans-unit id="Submit">
+        <source>Change</source>
+        <target>送出</target>
+      </trans-unit>
+      <trans-unit id="Success">
+        <source>Success</source>
+        <target>成功</target>
+      </trans-unit>
+      <trans-unit id="Password change successful">
+        <source>Password change successful</source>
+        <target>密碼修改成功</target>
+      </trans-unit>
+      <trans-unit id="Send Password Reset Link">
+        <source>Restore Password</source>
+        <target>送出密碼重設連結</target>
+      </trans-unit>
+      <trans-unit id="Done. Please check your email.">
+        <source>Done. Please check your email.</source>
+        <target>完成。請檢查您的電子郵件</target>
+      </trans-unit>
+      <trans-unit id="Users">
+        <source>Users</source>
+        <target>使用者</target>
+      </trans-unit>
+      <trans-unit id="Name">
+        <source>Name</source>
+        <target>姓名</target>
+      </trans-unit>
+      <trans-unit id="Role">
+        <source>Role</source>
+        <target>角色</target>
+      </trans-unit>
+      <trans-unit id="Actions">
+        <source>Actions</source>
+        <target>動作</target>
+      </trans-unit>
+      <trans-unit id="Delete user">
+        <source>Delete user</source>
+        <target>刪除使用者</target>
+      </trans-unit>
+      <trans-unit id="Edit meter associations">
+        <source>Edit meter associations</source>
+        <target>編輯儀表關聯</target>
+      </trans-unit>
+      <trans-unit id="Create User">
+        <source>Create User</source>
+        <target>建立使用者</target>
+      </trans-unit>
+      <trans-unit id="Real name">
+        <source>Real name</source>
+        <target>真實姓名</target>
+      </trans-unit>
+      <trans-unit id="Email address">
+        <source>Email address</source>
+        <target>電子郵件位址</target>
+      </trans-unit>
+      <trans-unit id="Account created">
+        <source>Account created</source>
+        <target>帳號已建立</target>
+      </trans-unit>
+      <trans-unit id="Manager Account Associations">
+        <source>Manager Account Associations</source>
+        <target>經理帳戶關聯</target>
+      </trans-unit>
+      <trans-unit id="this Association">
+        <source>this Association</source>
+        <target>這個協會</target>
+      </trans-unit>
+      <trans-unit id="Associate Meter">
+        <source>Associate Meter</source>
+        <target>聯合儀表</target>
+      </trans-unit>
+      <trans-unit id="Meter ID">
+        <source>Meter ID</source>
+        <target>儀表ID</target>
+      </trans-unit>
+      <trans-unit id="Association saved">
+        <source>Association saved</source>
+        <target>協會保存</target>
+      </trans-unit>
+      <trans-unit id="Change Password">
+        <source>Change Password</source>
+        <target>更改密碼</target>
+      </trans-unit>
+      <trans-unit id="Create Meter Record">
+        <source>Create Meter Record</source>
+        <target>創建儀表記錄</target>
+      </trans-unit>
+      <trans-unit id="Edit Meter Record">
+        <source>Edit Meter Record</source>
+        <target>編輯儀表記錄</target>
+      </trans-unit>
+      <trans-unit id="IMSI">
+        <source>IMSI</source>
+        <target>IMSI</target>
+      </trans-unit>
+      <trans-unit id="GUK">
+        <source>GUK</source>
+        <target>GUK</target>
+      </trans-unit>
+      <trans-unit id="AK">
+        <source>AK</source>
+        <target>AK</target>
+      </trans-unit>
+      <trans-unit id="Coordinates">
+        <source>Coordinates</source>
+        <target>坐標</target>
+      </trans-unit>
+      <trans-unit id="Address">
+        <source>Address</source>
+        <target>地址</target>
+      </trans-unit>
+      <trans-unit id="Notes">
+        <source>Notes</source>
+        <target>筆記</target>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>取消</target>
+      </trans-unit>
+      <trans-unit id="Meters">
+        <source>Meters</source>
+        <target>電錶</target>
+      </trans-unit>
+      <trans-unit id="Add Meter">
+        <source>Add Meter</source>
+        <target>新增電錶</target>
+      </trans-unit>
+      <trans-unit id="Meter Key Upload">
+        <source>Meter Key Upload</source>
+        <target>儀表鍵上傳</target>
+      </trans-unit>
+      <trans-unit id="File type supported: CSV">
+        <source>File type supported: CSV</source>
+        <target>支持的文件類型：CSV</target>
+      </trans-unit>
+      <trans-unit id="File format: TAB separated">
+        <source>File format: TAB separated</source>
+        <target>文件格式：TAB分開</target>
+      </trans-unit>
+      <trans-unit id="CSV fields: MeterID, IMSI, GUK, AK, Address (optional), Coords (optional), Notes (optional)">
+        <source>CSV fields: MeterID, IMSI, GUK, AK, Address (optional), Coords (optional), Notes (optional)</source>
+        <target>CSV字段：MeterID，IMSI，GUK，AK，地址（可選），Coords（可選），Notes（可選）</target>
+      </trans-unit>
+      <trans-unit id="Choose file">
+        <source>Choose file</source>
+        <target>選擇文件</target>
+      </trans-unit>
+      <trans-unit id="Updated">
+        <source>Updated</source>
+        <target>更新</target>
+      </trans-unit>
+      <trans-unit id="Upload">
+        <source>Upload</source>
+        <target>上傳</target>
+      </trans-unit>
+      <trans-unit id="Load Profile Chart">
+        <source>Load Profile Chart</source>
+        <target>加載配置文件圖表</target>
+      </trans-unit>
+      <trans-unit id="Filter">
+        <source>Filter</source>
+        <target>過濾</target>
+      </trans-unit>
+      <trans-unit id="15 Minute">
+        <source>15 Minute</source>
+        <target>15分鐘</target>
+      </trans-unit>
+      <trans-unit id="Inteval">
+        <source>Inteval</source>
+        <target>間隔</target>
+      </trans-unit>
+      <trans-unit id="Browse Load Profile Data">
+        <source>Browse Load Profile Data</source>
+        <target>瀏覽加載配置文件數據</target>
+      </trans-unit>
+      <trans-unit id="Time">
+        <source>Time</source>
+        <target>時間</target>
+      </trans-unit>
+      <trans-unit id="Export Data">
+        <source>Export Data</source>
+        <target>導出數據</target>
+      </trans-unit>
+      <trans-unit id="Choose a start date">
+        <source>Choose a start date</source>
+        <target>選擇開始日期</target>
+      </trans-unit>
+      <trans-unit id="Choose an end date">
+        <source>Choose an end date</source>
+        <target>選擇結束日期</target>
+      </trans-unit>
+      <trans-unit id="Download Export File">
+        <source>Download Export File</source>
+        <target>下載導出文件</target>
+      </trans-unit>
+      <trans-unit id="No">
+        <source>No</source>
+        <target>否</target>
+      </trans-unit>
+      <trans-unit id="Yes">
+        <source>Yes</source>
+        <target>是</target>
+      </trans-unit>
+      <trans-unit id="State">
+        <source>State</source>
+        <target>州</target>
+      </trans-unit>
+      <trans-unit id="Registered">
+        <source>Registered</source>
+        <target>註冊</target>
+      </trans-unit>
+      <trans-unit id="Authenticated">
+        <source>Authenticated</source>
+        <target>經過身份驗證</target>
+      </trans-unit>
+      <trans-unit id="Last Seen">
+        <source>Last Seen</source>
+        <target>最後一次露面</target>
+      </trans-unit>
+      <trans-unit id="Show More">
+        <source>Show More</source>
+        <target>顯示更多</target>
+      </trans-unit>
+      <trans-unit id="Show Less">
+        <source>Show Less</source>
+        <target>顯示較少</target>
+      </trans-unit>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <target>刪除</target>
+      </trans-unit>
+      <trans-unit id="Edit">
+        <source>Edit</source>
+        <target>編輯</target>
+      </trans-unit>
+      <trans-unit id="Ubiik Power Meter Management System">
+        <source>Ubiik Power Meter Management System</source>
+        <target>翻譯服務器錯誤</target>
+      </trans-unit>
+      <trans-unit id="Select Load Profile data">
+        <source>Select Load Profile data</source>
+        <target>翻譯服務器錯誤</target>
+      </trans-unit>
+      <trans-unit id="Select a meter for visualisation">
+        <source>Select a meter for visualisation</source>
+        <target>翻譯服務器錯誤</target>
+      </trans-unit>
+      <trans-unit id="Apply">
+        <source>Apply</source>
+        <target>錯誤</target>
+      </trans-unit>
+      <trans-unit id="Home">
+        <source>Home</source>
+        <target>家</target>
+      </trans-unit>
+      <trans-unit id="View Meters">
+        <source>View Meters</source>
+        <target>查看米</target>
+      </trans-unit>
+      <trans-unit id="5bc227e4b5c519f9dfcc5ea17eb8e01c46ebb21c">
+        <source>5bc227e4b5c519f9dfcc5ea17eb8e01c46ebb21c</source>
+        <target>5bc227e4b5c519f9dfcc5ea17eb8e01c46ebb21c</target>
+        <note>@Meter Associations</note>
+      </trans-unit>
+      <trans-unit id="Load Profile">
+        <source>Load Profile</source>
+        <target>加載配置文件</target>
+      </trans-unit>
+      <trans-unit id="Alerts">
+        <source>Alerts</source>
+        <target>警報</target>
+      </trans-unit>
+      <trans-unit id="Manage Access">
+        <source>Manage Access</source>
+        <target>管理訪問權限</target>
+      </trans-unit>
+      <trans-unit id="Logout">
+        <source>Logout</source>
+        <target>登出</target>
+      </trans-unit>
+      <trans-unit id="Search meters...">
+        <source>Search meters...</source>
+        <target>搜索米...</target>
+      </trans-unit>
+      <trans-unit id="Something went wrong with the last request">
+        <source>Something went wrong with the last request</source>
+        <target>最後一個請求出了問題</target>
+      </trans-unit>
+      <trans-unit id="E-MAIL">
+        <source>E-MAIL</source>
+        <target>電子郵件</target>
+      </trans-unit>
+      <trans-unit id="PASSWORD">
+        <source>PASSWORD</source>
+        <target>密碼</target>
+      </trans-unit>
+      <trans-unit id="2863849aae334d516b47133a0995e966e067b161">
+        <source>2863849aae334d516b47133a0995e966e067b161</source>
+        <target>2863849aae334d516b47133a0995e966e067b161</target>
+        <note>CURRENT PASSWORD</note>
+      </trans-unit>
+      <trans-unit id="NEW PASSWORD">
+        <source>NEW PASSWORD</source>
+        <target>新密碼</target>
+      </trans-unit>
+      <trans-unit id="CONFIRM NEW PASSWORD">
+        <source>CONFIRM NEW PASSWORD</source>
+        <target>確認新密碼</target>
+      </trans-unit>
+      <trans-unit id="Password must be at least 6 characters">
+        <source>Password must be at least 6 characters</source>
+        <target>密碼必須至少6個字符</target>
+      </trans-unit>
+      <trans-unit id="Back to login">
+        <source>Cancel</source>
+        <target>回到登入</target>
+      </trans-unit>
+      <trans-unit id="Create New Password">
+        <source>Create New Password</source>
+        <target>創建新密碼</target>
+      </trans-unit>
+      <trans-unit id="Email not found">
+        <source>Email not found</source>
+        <target>電子郵件找不到</target>
+      </trans-unit>
+      <trans-unit id="Restore My Password">
+        <source>Restore My Password</source>
+        <target>恢復我的密碼</target>
+      </trans-unit>
+      <trans-unit id="Password Sent To Your Email">
+        <source>Password Sent To Your Email</source>
+        <target>密碼發送到您的電子郵件</target>
+      </trans-unit>
+      <trans-unit id="You've successfully updated your password on your account">
+        <source>You've successfully updated your password on your account</source>
+        <target>您已成功更新帳戶中的密碼</target>
+      </trans-unit>
+      <trans-unit id="It looks like this page doesn't exist yet.">
+        <source>It looks like this page doesn't exist yet.</source>
+        <target>看起來這個頁面還不存在。</target>
+      </trans-unit>
+      <trans-unit id="Navigate Home">
+        <source>Navigate Home</source>
+        <target>導航回家</target>
+      </trans-unit>
+      <trans-unit id="Fan ID">
+        <source>Fan ID</source>
+        <target>粉絲ID</target>
+      </trans-unit>
+      <trans-unit id="FAN State">
+        <source>FAN State</source>
+        <target>範國家</target>
+      </trans-unit>
+      <trans-unit id="Meter State">
+        <source>Meter State</source>
+        <target>米州</target>
+      </trans-unit>
+      <trans-unit id="Create Account">
+        <source>Send Command</source>
+        <target>創建帳號</target>
+      </trans-unit>
+      <trans-unit id="Command (AT or HEX)">
+        <source>Command (AT or HEX)</source>
+        <target>命令（AT或HEX）</target>
+      </trans-unit>
+      <trans-unit id="Invalid HEX string">
+        <source>Invalid HEX string</source>
+        <target>無效的十六進制字符串</target>
+      </trans-unit>
+      <trans-unit id="Invalid AT command string">
+        <source>Invalid AT command string</source>
+        <target>AT命令字符串無效</target>
+      </trans-unit>
+      <trans-unit id="Send Command">
+        <source>Send Command</source>
+        <target>發送命令</target>
+      </trans-unit>
+      <trans-unit id="From date">
+        <source>From date</source>
+        <target>從日期</target>
+      </trans-unit>
+      <trans-unit id="From time">
+        <source>From time</source>
+        <target>從時間</target>
+      </trans-unit>
+      <trans-unit id="To date">
+        <source>To date</source>
+        <target>至今</target>
+      </trans-unit>
+      <trans-unit id="To time">
+        <source>To time</source>
+        <target>到時候了</target>
+      </trans-unit>
+      <trans-unit id="Send Query">
+        <source>Send Query</source>
+        <target>發送查詢</target>
+      </trans-unit>
+      <trans-unit id="Close">
+        <source>Close</source>
+        <target>關</target>
+      </trans-unit>
+      <trans-unit id="All groups">
+        <source>All groups</source>
+        <target>所有團體</target>
+      </trans-unit>
+      <trans-unit id="Select a group...">
+        <source>Select a group...</source>
+        <target>選擇一個組......</target>
+      </trans-unit>
+      <trans-unit id="Search...">
+        <source>Search...</source>
+        <target>搜索...</target>
+      </trans-unit>
+      <trans-unit id="Query Load Profile">
+        <source>Show Load Profile</source>
+        <target>查詢負載配置文件</target>
+      </trans-unit>
+      <trans-unit id="Import">
+        <source>Import</source>
+        <target>進口</target>
+      </trans-unit>
+      <trans-unit id="CSV fields: MeterID, GUK, AK, Address (optional), Coords (optional), Notes (optional)">
+        <source>CSV fields: MeterID, GUK, AK, Address (optional), Coords (optional), Notes (optional)</source>
+        <target>CSV字段：MeterID，GUK，AK，地址（可選），COORDS（可選），備註（可選）</target>
+      </trans-unit>
+      <trans-unit id="File imported successfully">
+        <source>File imported successfully</source>
+        <target>文件導入成功</target>
+      </trans-unit>
+      <trans-unit id="There was a problem in with the file format, at position:">
+        <source>There was a problem in with the file format, at position:</source>
+        <target>文件格式存在問題，位置：</target>
+      </trans-unit>
+      <trans-unit id="The selected file is empty">
+        <source>The selected file is empty</source>
+        <target>所選文件為空</target>
+      </trans-unit>
+      <trans-unit id="Filter Meter IDs">
+        <source>Filter Meter IDs</source>
+        <target>過濾儀表ID</target>
+      </trans-unit>
+      <trans-unit id="Found $NUM_METERS Meters">
+        <source>Found Meters</source>
+        <target>找到$ NUM_METERS米</target>
+      </trans-unit>
+      <trans-unit id="Reading">
+        <source>Reading</source>
+        <target>讀</target>
+      </trans-unit>
+      <trans-unit id="Accounts">
+        <source>Accounts</source>
+        <target>帳號</target>
+      </trans-unit>
+      <trans-unit id="Edit account">
+        <source>Edit account</source>
+        <target>編輯賬戶</target>
+      </trans-unit>
+      <trans-unit id="Change Language">
+        <source>Change Language</source>
+        <target>改變語言</target>
+      </trans-unit>
+      <trans-unit id="Password failed complexity requirement">
+        <source>Password failed complexity requirement</source>
+        <target>密碼失敗複雜性要求</target>
+      </trans-unit>
+      <trans-unit id="Invalid username or password">
+        <source>Invalid username or password</source>
+        <target>用戶名或密碼無效</target>
+      </trans-unit>
+      <trans-unit id="Error encrypting password">
+        <source>Error encrypting password</source>
+        <target>加密密碼時出錯</target>
+      </trans-unit>
+      <trans-unit id="A database error occurred">
+        <source>A database error occurred</source>
+        <target>發生數據庫錯誤</target>
+      </trans-unit>
+      <trans-unit id="Error decoding data chunk">
+        <source>Error decoding data chunk</source>
+        <target>解碼數據塊時出錯</target>
+      </trans-unit>
+      <trans-unit id="Error sending email">
+        <source>Error sending email</source>
+        <target>發送郵件時出錯</target>
+      </trans-unit>
+      <trans-unit id="Error decoding data">
+        <source>Error decoding data</source>
+        <target>解碼數據時出錯</target>
+      </trans-unit>
+      <trans-unit id="Error generating token">
+        <source>Error generating token</source>
+        <target>生成令牌時出錯</target>
+      </trans-unit>
+      <trans-unit id="Input was not HEX formatted">
+        <source>Input was not HEX formatted</source>
+        <target>輸入不是HEX格式</target>
+      </trans-unit>
+      <trans-unit id="Error reading IMPACT resonse">
+        <source>Error reading IMPACT resonse</source>
+        <target>讀錯誤讀出錯誤</target>
+      </trans-unit>
+      <trans-unit id="Invalid HTTP code from IMPACT">
+        <source>Invalid HTTP code from IMPACT</source>
+        <target>來自IMPACT的HTTP代碼無效</target>
+      </trans-unit>
+      <trans-unit id="Network error communicating with IMPACT">
+        <source>Network error communicating with IMPACT</source>
+        <target>與IMPACT通信的網絡錯誤</target>
+      </trans-unit>
+      <trans-unit id="Error decoding IMPACT request">
+        <source>Error decoding IMPACT response</source>
+        <target>解碼IMPACT請求時出錯</target>
+      </trans-unit>
+      <trans-unit id="Bad HTTP response code from IMPACT">
+        <source>Bad HTTP response code from IMPACT</source>
+        <target>來自IMPACT的錯誤的HTTP響應代碼</target>
+      </trans-unit>
+      <trans-unit id="Could not decode IMPACT response">
+        <source>Could not decode IMPACT response</source>
+        <target>無法解碼IMPACT響應</target>
+      </trans-unit>
+      <trans-unit id="Command too short">
+        <source>Command too short</source>
+        <target>命令太短了</target>
+      </trans-unit>
+      <trans-unit id="Password does not match">
+        <source>Password does not match</source>
+        <target>密碼不匹配</target>
+      </trans-unit>
+      <trans-unit id="User not found">
+        <source>User not found</source>
+        <target>找不到用戶</target>
+      </trans-unit>
+      <trans-unit id="There was a problem with the backend request">
+        <source>There was a problem with the backend request</source>
+        <target>後端請求存在問題</target>
+      </trans-unit>
+      <trans-unit id="Invalid role">
+        <source>Invalid role</source>
+        <target>角色無效</target>
+      </trans-unit>
+      <trans-unit id="Cannot update root account info, use reset password instead">
+        <source>Cannot update root account info, use reset password instead</source>
+        <target>無法更新root帳戶信息，請改用密碼</target>
+      </trans-unit>
+      <trans-unit id="Could not create temporary file">
+        <source>Could not create temporary file</source>
+        <target>無法創建臨時文件</target>
+      </trans-unit>
+      <trans-unit id="Could not write temporary file">
+        <source>Could not write temporary file</source>
+        <target>無法寫臨時文件</target>
+      </trans-unit>
+      <trans-unit id="Could not write ZIP file">
+        <source>Could not write ZIP file</source>
+        <target>無法寫入ZIP文件</target>
+      </trans-unit>
+      <trans-unit id="No FANs were selected, please select meters with associated FANs to continue">
+        <source>No FANs were selected, please select meters with associated FANs to continue</source>
+        <target>沒有選擇FAN，請選擇具有相關FAN的儀表以繼續</target>
+      </trans-unit>
+      <trans-unit id="Received">
+        <source>Received</source>
+        <target>收到</target>
+      </trans-unit>
+      <trans-unit id="Status">
+        <source>Status</source>
+        <target>狀態</target>
+      </trans-unit>
+      <trans-unit id="FAN ID">
+        <source>FAN ID</source>
+        <target>粉絲ID</target>
+      </trans-unit>
+      <trans-unit id="Record ID">
+        <source>Record ID</source>
+        <target>記錄ID</target>
+      </trans-unit>
+      <trans-unit id="Export Data By Date Range">
+        <source>Export Data By Date Range</source>
+        <target>按日期範圍導出數據</target>
+      </trans-unit>
+      <trans-unit id="Generate Export File">
+        <source>Generate Export File</source>
+        <target>生成導出文件</target>
+      </trans-unit>
+      <trans-unit id="Delete account">
+        <source>Delete account</source>
+        <target>刪除帳戶</target>
+      </trans-unit>
+      <trans-unit id="Edit Account">
+        <source>Edit Account</source>
+        <target>編輯賬戶</target>
+      </trans-unit>
+      <trans-unit id="Create account">
+        <source>Create account</source>
+        <target>創建帳號</target>
+      </trans-unit>
+      <trans-unit id="CURRENT PASSWORD">
+        <source>CURRENT PASSWORD</source>
+        <target>當前密碼</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

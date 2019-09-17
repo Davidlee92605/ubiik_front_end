@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="There was a problem in with the file format, at position:" datatype="html">
+        <source>
+              There was a problem in with the file format, at position: <x id="INTERPOLATION" equiv-text="{{error.message}}"/>
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-import-form.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="The selected file is empty" datatype="html">
+        <source>The selected file is empty</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-import-form.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Password failed complexity requirement" datatype="html">
+        <source>
+              Password failed complexity requirement
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Invalid username or password" datatype="html">
+        <source>Invalid username or password</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Error encrypting password" datatype="html">
+        <source>Error encrypting password</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="A database error occurred" datatype="html">
+        <source>A database error occurred</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Error decoding data chunk" datatype="html">
+        <source>Error decoding data chunk</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Error sending email" datatype="html">
+        <source>Error sending email</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Error decoding data" datatype="html">
+        <source>Error decoding data</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Error generating token" datatype="html">
+        <source>Error generating token</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Input was not HEX formatted" datatype="html">
+        <source>Input was not HEX formatted</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Error reading IMPACT resonse" datatype="html">
+        <source>Error reading IMPACT resonse</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Invalid HTTP code from IMPACT" datatype="html">
+        <source>
+              Invalid HTTP code from IMPACT
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Network error communicating with IMPACT" datatype="html">
+        <source>
+              Network error communicating with IMPACT
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Error decoding IMPACT request" datatype="html">
+        <source>
+              Error decoding IMPACT response
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Bad HTTP response code from IMPACT" datatype="html">
+        <source>
+              Bad HTTP response code from IMPACT
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Could not decode IMPACT response" datatype="html">
+        <source>
+              Could not decode IMPACT response
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Command too short" datatype="html">
+        <source>Command too short</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Password does not match" datatype="html">
+        <source>Password does not match</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="User not found" datatype="html">
+        <source>User not found</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="There was a problem with the backend request" datatype="html">
+        <source>
+              There was a problem with the backend request
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Invalid role" datatype="html">
+        <source>Invalid role</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Cannot update root account info, use reset password instead" datatype="html">
+        <source>
+              Cannot update root account info, use reset password instead
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Could not create temporary file" datatype="html">
+        <source>
+              Could not create temporary file
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Could not write temporary file" datatype="html">
+        <source>
+              Could not write temporary file
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Could not write ZIP file" datatype="html">
+        <source>Could not write ZIP file</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="No FANs were selected, please select meters with associated FANs to continue" datatype="html">
+        <source>
+              No FANs were selected, please select meters with associated FANs to continue
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Something went wrong with the last request" datatype="html">
+        <source>
+              Something went wrong with the last request
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shared/components/backend-error-message.component.ts</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Login" datatype="html">
+        <source>LOGIN</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/login-form.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/login-form.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="E-MAIL" datatype="html">
+        <source>E-MAIL</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/login-form.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/lost-password-form.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="PASSWORD" datatype="html">
+        <source>PASSWORD</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/login-form.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Forgot password?" datatype="html">
+        <source>Forgot password</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/login-form.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Change Password" datatype="html">
+        <source>Change Password</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/change-password-form.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/toolbar.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="CURRENT PASSWORD" datatype="html">
+        <source>CURRENT PASSWORD</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/change-password-form.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="NEW PASSWORD" datatype="html">
+        <source>NEW PASSWORD</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/change-password-form.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/handle-reset-link-form.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="CONFIRM NEW PASSWORD" datatype="html">
+        <source>CONFIRM NEW PASSWORD</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/change-password-form.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/handle-reset-link-form.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Password must be at least 6 characters" datatype="html">
+        <source>
+                          Password must be at least 6 characters
+                      </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/change-password-form.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Invalid credentials" datatype="html">
+        <source>Invalid credentials</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/change-password-form.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Passwords do not match" datatype="html">
+        <source>Passwords do not match</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/change-password-form.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/handle-reset-link-form.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Back to login" datatype="html">
+        <source>Cancel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/change-password-form.component.ts</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/containers/lost-password-link-sent.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-import-form.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Submit" datatype="html">
+        <source>Change</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/change-password-form.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/handle-reset-link-form.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/edit-meter-dialog.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Create New Password" datatype="html">
+        <source>Create New Password</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/handle-reset-link-form.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Send Password Reset Link" datatype="html">
+        <source>Restore Password</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/lost-password-form.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Email not found" datatype="html">
+        <source>Email not found</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/lost-password-form.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Restore My Password" datatype="html">
+        <source>Restore My Password
+                      </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/lost-password-form.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Password Sent To Your Email" datatype="html">
+        <source>
+        Password<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/> Sent To Your Email
+      </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/containers/lost-password-link-sent.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="You&apos;ve successfully updated your password on your account" datatype="html">
+        <source>You&apos;ve successfully updated your password on your account</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/containers/password-changed.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="It looks like this page doesn&apos;t exist yet." datatype="html">
+        <source>It looks like this page doesn&apos;t exist yet.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/containers/not-found-page.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Navigate Home" datatype="html">
+        <source>Navigate Home</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/containers/not-found-page.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Meter ID" datatype="html">
+        <source> Meter ID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-table.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/edit-meter-dialog.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/load-profile/components/load-profile-table.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Fan ID" datatype="html">
+        <source> Fan ID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-table.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="FAN State" datatype="html">
+        <source> FAN State</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-table.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Meter State" datatype="html">
+        <source> Meter State</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-table.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Registered" datatype="html">
+        <source> Registered</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-table.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Authenticated" datatype="html">
+        <source> Authenticated</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-table.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Last Seen" datatype="html">
+        <source> Last Seen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-table.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Create Account" datatype="html">
+        <source>Send Command</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/at-command-dialog.component.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/query-meter-dialog.component.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/accounts/dialogs/account-dialog.component.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/accounts/dialogs/account-dialog.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Command (AT or HEX)" datatype="html">
+        <source>Command (AT or HEX)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/at-command-dialog.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Cancel" datatype="html">
+        <source>Cancel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/at-command-dialog.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/edit-meter-dialog.component.ts</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/query-meter-dialog.component.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/accounts/dialogs/account-dialog.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Send Command" datatype="html">
+        <source>Send Command</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/at-command-dialog.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-tool-bar.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Create Meter Record" datatype="html">
+        <source>Create Meter Record</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/edit-meter-dialog.component.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Edit Meter Record" datatype="html">
+        <source>Edit Meter Record</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/edit-meter-dialog.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="GUK" datatype="html">
+        <source>GUK</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/edit-meter-dialog.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/meter-info-dialog.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="AK" datatype="html">
+        <source>AK</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/edit-meter-dialog.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/meter-info-dialog.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Coordinates" datatype="html">
+        <source>Coordinates</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/edit-meter-dialog.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/meter-info-dialog.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Address" datatype="html">
+        <source>Address</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/edit-meter-dialog.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/meter-info-dialog.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Notes" datatype="html">
+        <source>Notes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/edit-meter-dialog.component.ts</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/meter-info-dialog.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="From date" datatype="html">
+        <source>From date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/query-meter-dialog.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="From time" datatype="html">
+        <source>
+                          <x id="START_TAG_MAT-OPTION" ctype="x-mat-option" equiv-text="&lt;mat-option&gt;"/><x id="INTERPOLATION" equiv-text="{{t}}"/><x id="CLOSE_TAG_MAT-OPTION" ctype="x-mat-option" equiv-text="&lt;/mat-option&gt;"/>
+                      </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/query-meter-dialog.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="To date" datatype="html">
+        <source>To date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/query-meter-dialog.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="To time" datatype="html">
+        <source>
+                          <x id="START_TAG_MAT-OPTION" ctype="x-mat-option" equiv-text="&lt;mat-option&gt;"/><x id="INTERPOLATION" equiv-text="{{t}}"/><x id="CLOSE_TAG_MAT-OPTION" ctype="x-mat-option" equiv-text="&lt;/mat-option&gt;"/>
+                      </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/query-meter-dialog.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Send Query" datatype="html">
+        <source>Send Query
+              </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/query-meter-dialog.component.ts</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Close" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/meter-info-dialog.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Meter Key Upload" datatype="html">
+        <source>Meter Key Upload</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/meter-import-dialog.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-import-form.component.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="File type supported: CSV" datatype="html">
+        <source>File type supported: CSV</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/meter-import-dialog.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-import-form.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="File format: TAB separated" datatype="html">
+        <source>File format: TAB separated</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/meter-import-dialog.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-import-form.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="CSV fields: MeterID, GUK, AK, Address (optional), Coords (optional), Notes (optional)" datatype="html">
+        <source>
+                      CSV fields: MeterID, GUK, AK, Address (optional), Coords (optional), Notes (optional)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/meter-import-dialog.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-import-form.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Choose file" datatype="html">
+        <source>
+                          <x id="START_TAG_FA-ICON" ctype="x-fa-icon" equiv-text="&lt;fa-icon&gt;"/><x id="CLOSE_TAG_FA-ICON" ctype="x-fa-icon" equiv-text="&lt;/fa-icon&gt;"/>
+                          Choose file</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/meter-import-dialog.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-import-form.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Upload" datatype="html">
+        <source>Upload</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/dialogs/meter-import-dialog.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-import-form.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="All groups" datatype="html">
+        <source>All groups</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-search-bar.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Select a group..." datatype="html">
+        <source>Select a group...</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-search-bar.component.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Search..." datatype="html">
+        <source>Search...</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-search-bar.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Query Load Profile" datatype="html">
+        <source>
+          Show Load Profile
+      </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-tool-bar.component.ts</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-tool-bar.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Import" datatype="html">
+        <source><x id="START_TAG_FA-ICON" ctype="x-fa-icon" equiv-text="&lt;fa-icon&gt;"/><x id="CLOSE_TAG_FA-ICON" ctype="x-fa-icon" equiv-text="&lt;/fa-icon&gt;"/>  Import</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-import-bar.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Add Meter" datatype="html">
+        <source><x id="START_TAG_FA-ICON" ctype="x-fa-icon" equiv-text="&lt;fa-icon&gt;"/><x id="CLOSE_TAG_FA-ICON" ctype="x-fa-icon" equiv-text="&lt;/fa-icon&gt;"/>  Add Meter</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-import-bar.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="File imported successfully" datatype="html">
+        <source>File imported successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/meters/components/meter-import-form.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Filter Meter IDs" datatype="html">
+        <source>Filter Meter IDs</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/load-profile/components/load-profile-search.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Found $NUM_METERS Meters" datatype="html">
+        <source>Found <x id="INTERPOLATION" equiv-text="{{meterIds ? meterIds.length : 0}}"/> Meters</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/load-profile/components/load-profile-search.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Time" datatype="html">
+        <source>Time</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/load-profile/components/load-profile-table.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Received" datatype="html">
+        <source>Received</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/load-profile/components/load-profile-table.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Status" datatype="html">
+        <source>Status</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/load-profile/components/load-profile-table.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="FAN ID" datatype="html">
+        <source>FAN ID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/load-profile/components/load-profile-table.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Record ID" datatype="html">
+        <source>Record ID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/load-profile/components/load-profile-table.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Reading" datatype="html">
+        <source>Reading</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/load-profile/components/load-profile-table.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Export Data By Date Range" datatype="html">
+        <source>Export Data By Date Range</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/load-profile/components/load-profile-export.component.ts</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Choose a start date" datatype="html">
+        <source>Choose a start date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/load-profile/components/load-profile-export.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Choose an end date" datatype="html">
+        <source>Choose an end date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/load-profile/components/load-profile-export.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Generate Export File" datatype="html">
+        <source>
+                  Generate Export File
+              </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/load-profile/components/load-profile-export.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Download Export File" datatype="html">
+        <source>
+                  Download Export File</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/load-profile/components/load-profile-export.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Name" datatype="html">
+        <source>Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/accounts/components/account-table.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Email" datatype="html">
+        <source>Email</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/accounts/components/account-table.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Role" datatype="html">
+        <source>Role</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/accounts/components/account-table.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/accounts/dialogs/account-dialog.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Actions" datatype="html">
+        <source>Actions</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/accounts/components/account-table.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Delete account" datatype="html">
+        <source>Delete account</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/accounts/components/account-table.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Edit account" datatype="html">
+        <source>Edit account</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/accounts/components/account-table.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/toolbar.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Edit Account" datatype="html">
+        <source>Edit Account</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/accounts/dialogs/account-dialog.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/accounts/dialogs/account-dialog.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Real name" datatype="html">
+        <source>Real name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/accounts/dialogs/account-dialog.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Email address" datatype="html">
+        <source>Email address</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/accounts/dialogs/account-dialog.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Accounts" datatype="html">
+        <source>Accounts</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/accounts/containers/account-page.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/containers/app.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Create account" datatype="html">
+        <source>Create account</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/accounts/containers/account-page.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="View Meters" datatype="html">
+        <source>View Meters</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/containers/app.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Load Profile" datatype="html">
+        <source>Load Profile</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/containers/app.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Ubiik Power Meter Management System" datatype="html">
+        <source>
+          <x id="TAG_IMG" ctype="image" equiv-text="&lt;img/&gt;"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/toolbar.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Change Language" datatype="html">
+        <source>
+            <x id="START_TAG_FA-ICON" ctype="x-fa-icon" equiv-text="&lt;fa-icon&gt;"/><x id="CLOSE_TAG_FA-ICON" ctype="x-fa-icon" equiv-text="&lt;/fa-icon&gt;"/>
+            Change Language
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/toolbar.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Logout" datatype="html">
+        <source>
+            <x id="START_TAG_FA-ICON" ctype="x-fa-icon" equiv-text="&lt;fa-icon&gt;"/><x id="CLOSE_TAG_FA-ICON" ctype="x-fa-icon" equiv-text="&lt;/fa-icon&gt;"/>
+            Logout
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/core/components/toolbar.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

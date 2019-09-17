@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="ng2.template" datatype="plaintext" xml:space="preserve" source-language="en-us" target-language="ja">
+    <header>
+      <tool tool-id="poeditor.com" tool-name="POEditor"/>
+    </header>
+    <body>
+      <trans-unit id="Login">
+        <source>LOGIN</source>
+        <target>ログイン</target>
+      </trans-unit>
+      <trans-unit id="Email">
+        <source>Email</source>
+        <target>Eメール</target>
+      </trans-unit>
+      <trans-unit id="Password">
+        <source>Password</source>
+        <target>パスワード</target>
+      </trans-unit>
+      <trans-unit id="Invalid credentials">
+        <source>Invalid credentials</source>
+        <target>無効な資格情報</target>
+      </trans-unit>
+      <trans-unit id="Forgot password?">
+        <source>Forgot password</source>
+        <target>パスワードをお忘れですか？</target>
+      </trans-unit>
+      <trans-unit id="Current password">
+        <source>Current password</source>
+        <target>現在のパスワード</target>
+      </trans-unit>
+      <trans-unit id="New password">
+        <source>New password</source>
+        <target>新しいパスワード</target>
+      </trans-unit>
+      <trans-unit id="Confirm new password">
+        <source>Confirm new password</source>
+        <target>新しいパスワードを確認</target>
+      </trans-unit>
+      <trans-unit id="Passwords do not match">
+        <source>Passwords do not match</source>
+        <target>パスワードが一致していません</target>
+      </trans-unit>
+      <trans-unit id="Password was changed">
+        <source>Password was changed</source>
+        <target>パスワードが変更されました</target>
+      </trans-unit>
+      <trans-unit id="Submit">
+        <source>Change</source>
+        <target>提出する</target>
+      </trans-unit>
+      <trans-unit id="Success">
+        <source>Success</source>
+        <target>成功</target>
+      </trans-unit>
+      <trans-unit id="Password change successful">
+        <source>Password change successful</source>
+        <target>パスワード変更成功</target>
+      </trans-unit>
+      <trans-unit id="Send Password Reset Link">
+        <source>Restore Password</source>
+        <target>パスワードリセットリンクを送信</target>
+      </trans-unit>
+      <trans-unit id="Done. Please check your email.">
+        <source>Done. Please check your email.</source>
+        <target>完了しました。メールを確認してください。</target>
+      </trans-unit>
+      <trans-unit id="Users">
+        <source>Users</source>
+        <target>ユーザー</target>
+      </trans-unit>
+      <trans-unit id="Name">
+        <source>Name</source>
+        <target>名</target>
+      </trans-unit>
+      <trans-unit id="Role">
+        <source>Role</source>
+        <target>役割</target>
+      </trans-unit>
+      <trans-unit id="Actions">
+        <source>Actions</source>
+        <target>行動</target>
+      </trans-unit>
+      <trans-unit id="Delete user">
+        <source>Delete user</source>
+        <target>ユーザーを削除</target>
+      </trans-unit>
+      <trans-unit id="Edit meter associations">
+        <source>Edit meter associations</source>
+        <target>メーターの関連付けを編集する</target>
+      </trans-unit>
+      <trans-unit id="Create User">
+        <source>Create User</source>
+        <target>ユーザーを作成</target>
+      </trans-unit>
+      <trans-unit id="Real name">
+        <source>Real name</source>
+        <target>本名</target>
+      </trans-unit>
+      <trans-unit id="Email address">
+        <source>Email address</source>
+        <target>電子メールアドレス</target>
+      </trans-unit>
+      <trans-unit id="Account created">
+        <source>Account created</source>
+        <target>アカウントが作成されました</target>
+      </trans-unit>
+      <trans-unit id="Manager Account Associations">
+        <source>Manager Account Associations</source>
+        <target>マネージャアカウントの関連付け</target>
+      </trans-unit>
+      <trans-unit id="this Association">
+        <source>this Association</source>
+        <target>この協会</target>
+      </trans-unit>
+      <trans-unit id="Associate Meter">
+        <source>Associate Meter</source>
+        <target>アソシエイトメーター</target>
+      </trans-unit>
+      <trans-unit id="Meter ID">
+        <source>Meter ID</source>
+        <target>メーターID</target>
+      </trans-unit>
+      <trans-unit id="Association saved">
+        <source>Association saved</source>
+        <target>関連付けを保存しました</target>
+      </trans-unit>
+      <trans-unit id="Change Password">
+        <source>Change Password</source>
+        <target>パスワードを変更する</target>
+      </trans-unit>
+      <trans-unit id="Create Meter Record">
+        <source>Create Meter Record</source>
+        <target>メーターレコードを作成する</target>
+      </trans-unit>
+      <trans-unit id="Edit Meter Record">
+        <source>Edit Meter Record</source>
+        <target>メーターレコードの編集</target>
+      </trans-unit>
+      <trans-unit id="IMSI">
+        <source>IMSI</source>
+        <target>IMSI</target>
+      </trans-unit>
+      <trans-unit id="GUK">
+        <source>GUK</source>
+        <target>GUK</target>
+      </trans-unit>
+      <trans-unit id="AK">
+        <source>AK</source>
+        <target>AK</target>
+      </trans-unit>
+      <trans-unit id="Coordinates">
+        <source>Coordinates</source>
+        <target>座標</target>
+      </trans-unit>
+      <trans-unit id="Address">
+        <source>Address</source>
+        <target>住所</target>
+      </trans-unit>
+      <trans-unit id="Notes">
+        <source>Notes</source>
+        <target>ノート</target>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>キャンセル</target>
+      </trans-unit>
+      <trans-unit id="Meters">
+        <source>Meters</source>
+        <target>メーター</target>
+      </trans-unit>
+      <trans-unit id="Add Meter">
+        <source>Add Meter</source>
+        <target>メーターを追加</target>
+      </trans-unit>
+      <trans-unit id="Meter Key Upload">
+        <source>Meter Key Upload</source>
+        <target>メーターキーのアップロード</target>
+      </trans-unit>
+      <trans-unit id="File type supported: CSV">
+        <source>File type supported: CSV</source>
+        <target>サポートされているファイルの種類：CSV</target>
+      </trans-unit>
+      <trans-unit id="File format: TAB separated">
+        <source>File format: TAB separated</source>
+        <target>ファイル形式：TAB区切り</target>
+      </trans-unit>
+      <trans-unit id="CSV fields: MeterID, IMSI, GUK, AK, Address (optional), Coords (optional), Notes (optional)">
+        <source>CSV fields: MeterID, IMSI, GUK, AK, Address (optional), Coords (optional), Notes (optional)</source>
+        <target>CSVフィールド：MeterID、IMSI、GUK、AK、Address（オプション）、Coords（オプション）、Notes（オプション）</target>
+      </trans-unit>
+      <trans-unit id="Choose file">
+        <source>Choose file</source>
+        <target>ファイルを選ぶ</target>
+      </trans-unit>
+      <trans-unit id="Updated">
+        <source>Updated</source>
+        <target>更新しました</target>
+      </trans-unit>
+      <trans-unit id="Upload">
+        <source>Upload</source>
+        <target>アップロードする</target>
+      </trans-unit>
+      <trans-unit id="Load Profile Chart">
+        <source>Load Profile Chart</source>
+        <target>プロファイルチャートを読み込む</target>
+      </trans-unit>
+      <trans-unit id="Filter">
+        <source>Filter</source>
+        <target>フィルタ</target>
+      </trans-unit>
+      <trans-unit id="15 Minute">
+        <source>15 Minute</source>
+        <target>15分</target>
+      </trans-unit>
+      <trans-unit id="Inteval">
+        <source>Inteval</source>
+        <target>間隔</target>
+      </trans-unit>
+      <trans-unit id="Browse Load Profile Data">
+        <source>Browse Load Profile Data</source>
+        <target>プロファイルデータの読み込み</target>
+      </trans-unit>
+      <trans-unit id="Time">
+        <source>Time</source>
+        <target>時間</target>
+      </trans-unit>
+      <trans-unit id="Export Data">
+        <source>Export Data</source>
+        <target>データのエクスポート</target>
+      </trans-unit>
+      <trans-unit id="Choose a start date">
+        <source>Choose a start date</source>
+        <target>開始日を選択してください</target>
+      </trans-unit>
+      <trans-unit id="Choose an end date">
+        <source>Choose an end date</source>
+        <target>終了日を選択してください</target>
+      </trans-unit>
+      <trans-unit id="Download Export File">
+        <source>Download Export File</source>
+        <target>エクスポートファイルのダウンロード</target>
+      </trans-unit>
+      <trans-unit id="No">
+        <source>No</source>
+        <target>いいえ</target>
+      </trans-unit>
+      <trans-unit id="Yes">
+        <source>Yes</source>
+        <target>はい</target>
+      </trans-unit>
+      <trans-unit id="State">
+        <source>State</source>
+        <target>状態</target>
+      </trans-unit>
+      <trans-unit id="Registered">
+        <source>Registered</source>
+        <target>登録済み</target>
+      </trans-unit>
+      <trans-unit id="Authenticated">
+        <source>Authenticated</source>
+        <target>認証済み</target>
+      </trans-unit>
+      <trans-unit id="Last Seen">
+        <source>Last Seen</source>
+        <target>最後に見たのは</target>
+      </trans-unit>
+      <trans-unit id="Show More">
+        <source>Show More</source>
+        <target>もっと見せる</target>
+      </trans-unit>
+      <trans-unit id="Show Less">
+        <source>Show Less</source>
+        <target>少なく表示</target>
+      </trans-unit>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <target>削除する</target>
+      </trans-unit>
+      <trans-unit id="Edit">
+        <source>Edit</source>
+        <target>編集する</target>
+      </trans-unit>
+      <trans-unit id="Ubiik Power Meter Management System">
+        <source>Ubiik Power Meter Management System</source>
+        <target>Ubiik電力計管理システム</target>
+      </trans-unit>
+      <trans-unit id="Select Load Profile data">
+        <source>Select Load Profile data</source>
+        <target>プロファイルデータの読み込みを選択</target>
+      </trans-unit>
+      <trans-unit id="Select a meter for visualisation">
+        <source>Select a meter for visualisation</source>
+        <target>視覚化するメーターを選択</target>
+      </trans-unit>
+      <trans-unit id="Apply">
+        <source>Apply</source>
+        <target>適用する</target>
+      </trans-unit>
+      <trans-unit id="Home">
+        <source>Home</source>
+        <target>ホーム</target>
+      </trans-unit>
+      <trans-unit id="View Meters">
+        <source>View Meters</source>
+        <target>メーターを見る</target>
+      </trans-unit>
+      <trans-unit id="5bc227e4b5c519f9dfcc5ea17eb8e01c46ebb21c">
+        <source>5bc227e4b5c519f9dfcc5ea17eb8e01c46ebb21c</source>
+        <target>5bc227e4b5c519f9dfcc5ea17eb8e01c46ebb21c</target>
+        <note>@Meter Associations</note>
+      </trans-unit>
+      <trans-unit id="Load Profile">
+        <source>Load Profile</source>
+        <target>プロファイルを読み込む</target>
+      </trans-unit>
+      <trans-unit id="Alerts">
+        <source>Alerts</source>
+        <target>アラート</target>
+      </trans-unit>
+      <trans-unit id="Manage Access">
+        <source>Manage Access</source>
+        <target>アクセス管理</target>
+      </trans-unit>
+      <trans-unit id="Logout">
+        <source>Logout</source>
+        <target>ログアウト</target>
+      </trans-unit>
+      <trans-unit id="Search meters...">
+        <source>Search meters...</source>
+        <target>メーターを検索...</target>
+      </trans-unit>
+      <trans-unit id="Something went wrong with the last request">
+        <source>Something went wrong with the last request</source>
+        <target>最後のリクエストで問題が発生しました</target>
+      </trans-unit>
+      <trans-unit id="E-MAIL">
+        <source>E-MAIL</source>
+        <target>Eメール</target>
+      </trans-unit>
+      <trans-unit id="PASSWORD">
+        <source>PASSWORD</source>
+        <target>パスワード</target>
+      </trans-unit>
+      <trans-unit id="2863849aae334d516b47133a0995e966e067b161">
+        <source>2863849aae334d516b47133a0995e966e067b161</source>
+        <target>2863849aae334d516b47133a0995e966e067b161</target>
+        <note>CURRENT PASSWORD</note>
+      </trans-unit>
+      <trans-unit id="NEW PASSWORD">
+        <source>NEW PASSWORD</source>
+        <target>新しいパスワード</target>
+      </trans-unit>
+      <trans-unit id="CONFIRM NEW PASSWORD">
+        <source>CONFIRM NEW PASSWORD</source>
+        <target>新しいパスワードを確認</target>
+      </trans-unit>
+      <trans-unit id="Password must be at least 6 characters">
+        <source>Password must be at least 6 characters</source>
+        <target>パスワードは最低でも6文字必要です</target>
+      </trans-unit>
+      <trans-unit id="Back to login">
+        <source>Cancel</source>
+        <target>ログインに戻る</target>
+      </trans-unit>
+      <trans-unit id="Create New Password">
+        <source>Create New Password</source>
+        <target>新しいパスワードを作成</target>
+      </trans-unit>
+      <trans-unit id="Email not found">
+        <source>Email not found</source>
+        <target>メールが見つかりません</target>
+      </trans-unit>
+      <trans-unit id="Restore My Password">
+        <source>Restore My Password</source>
+        <target>パスワードを復元する</target>
+      </trans-unit>
+      <trans-unit id="Password Sent To Your Email">
+        <source>Password Sent To Your Email</source>
+        <target>メールに送信されたパスワード</target>
+      </trans-unit>
+      <trans-unit id="You've successfully updated your password on your account">
+        <source>You've successfully updated your password on your account</source>
+        <target>アカウントのパスワードを正常に更新しました</target>
+      </trans-unit>
+      <trans-unit id="It looks like this page doesn't exist yet.">
+        <source>It looks like this page doesn't exist yet.</source>
+        <target>このページはまだ存在しないようです。</target>
+      </trans-unit>
+      <trans-unit id="Navigate Home">
+        <source>Navigate Home</source>
+        <target>ナビゲートホーム</target>
+      </trans-unit>
+      <trans-unit id="Fan ID">
+        <source>Fan ID</source>
+        <target>ファンID</target>
+      </trans-unit>
+      <trans-unit id="FAN State">
+        <source>FAN State</source>
+        <target>ファンの状態</target>
+      </trans-unit>
+      <trans-unit id="Meter State">
+        <source>Meter State</source>
+        <target>メーター状態</target>
+      </trans-unit>
+      <trans-unit id="Create Account">
+        <source>Send Command</source>
+        <target>アカウントを作成する</target>
+      </trans-unit>
+      <trans-unit id="Command (AT or HEX)">
+        <source>Command (AT or HEX)</source>
+        <target>コマンド（ATまたはHEX）</target>
+      </trans-unit>
+      <trans-unit id="Invalid HEX string">
+        <source>Invalid HEX string</source>
+        <target>無効なHEX文字列</target>
+      </trans-unit>
+      <trans-unit id="Invalid AT command string">
+        <source>Invalid AT command string</source>
+        <target>無効なATコマンド文字列</target>
+      </trans-unit>
+      <trans-unit id="Send Command">
+        <source>Send Command</source>
+        <target>コマンドを送信</target>
+      </trans-unit>
+      <trans-unit id="From date">
+        <source>From date</source>
+        <target>日付から</target>
+      </trans-unit>
+      <trans-unit id="From time">
+        <source>From time</source>
+        <target>時間から</target>
+      </trans-unit>
+      <trans-unit id="To date">
+        <source>To date</source>
+        <target>現在まで</target>
+      </trans-unit>
+      <trans-unit id="To time">
+        <source>To time</source>
+        <target>時間に</target>
+      </trans-unit>
+      <trans-unit id="Send Query">
+        <source>Send Query</source>
+        <target>クエリを送信</target>
+      </trans-unit>
+      <trans-unit id="Close">
+        <source>Close</source>
+        <target>閉じる</target>
+      </trans-unit>
+      <trans-unit id="All groups">
+        <source>All groups</source>
+        <target>すべてのグループ</target>
+      </trans-unit>
+      <trans-unit id="Select a group...">
+        <source>Select a group...</source>
+        <target>グループを選択...</target>
+      </trans-unit>
+      <trans-unit id="Search...">
+        <source>Search...</source>
+        <target>サーチ...</target>
+      </trans-unit>
+      <trans-unit id="Query Load Profile">
+        <source>Show Load Profile</source>
+        <target>ロードプロファイルのクエリ</target>
+      </trans-unit>
+      <trans-unit id="Import">
+        <source>Import</source>
+        <target>インポート</target>
+      </trans-unit>
+      <trans-unit id="CSV fields: MeterID, GUK, AK, Address (optional), Coords (optional), Notes (optional)">
+        <source>CSV fields: MeterID, GUK, AK, Address (optional), Coords (optional), Notes (optional)</source>
+        <target>CSVフィールド：MeterID、GUK、AK、住所（オプション）、座標（オプション）、メモ（オプション）</target>
+      </trans-unit>
+      <trans-unit id="File imported successfully">
+        <source>File imported successfully</source>
+        <target>ファイルが正常にインポートされました</target>
+      </trans-unit>
+      <trans-unit id="There was a problem in with the file format, at position:">
+        <source>There was a problem in with the file format, at position:</source>
+        <target>次の位置のファイル形式に問題がありました：</target>
+      </trans-unit>
+      <trans-unit id="The selected file is empty">
+        <source>The selected file is empty</source>
+        <target>選択したファイルは空です</target>
+      </trans-unit>
+      <trans-unit id="Filter Meter IDs">
+        <source>Filter Meter IDs</source>
+        <target>フィルターメーターID</target>
+      </trans-unit>
+      <trans-unit id="Found $NUM_METERS Meters">
+        <source>Found Meters</source>
+        <target>$ NUM_METERSメートルが見つかりました</target>
+      </trans-unit>
+      <trans-unit id="Reading">
+        <source>Reading</source>
+        <target>読書</target>
+      </trans-unit>
+      <trans-unit id="Accounts">
+        <source>Accounts</source>
+        <target>アカウント</target>
+      </trans-unit>
+      <trans-unit id="Edit account">
+        <source>Edit account</source>
+        <target>アカウントの編集</target>
+      </trans-unit>
+      <trans-unit id="Change Language">
+        <source>Change Language</source>
+        <target>言語を変えてください</target>
+      </trans-unit>
+      <trans-unit id="Password failed complexity requirement">
+        <source>Password failed complexity requirement</source>
+        <target>パスワード失敗の複雑さの要件</target>
+      </trans-unit>
+      <trans-unit id="Invalid username or password">
+        <source>Invalid username or password</source>
+        <target>ユーザー名かパスワードが無効</target>
+      </trans-unit>
+      <trans-unit id="Error encrypting password">
+        <source>Error encrypting password</source>
+        <target>パスワードの暗号化エラー</target>
+      </trans-unit>
+      <trans-unit id="A database error occurred">
+        <source>A database error occurred</source>
+        <target>データベースエラーが発生しました</target>
+      </trans-unit>
+      <trans-unit id="Error decoding data chunk">
+        <source>Error decoding data chunk</source>
+        <target>データチャンクのデコードエラー</target>
+      </trans-unit>
+      <trans-unit id="Error sending email">
+        <source>Error sending email</source>
+        <target>メール送信エラー</target>
+      </trans-unit>
+      <trans-unit id="Error decoding data">
+        <source>Error decoding data</source>
+        <target>データのデコードエラー</target>
+      </trans-unit>
+      <trans-unit id="Error generating token">
+        <source>Error generating token</source>
+        <target>トークン生成エラー</target>
+      </trans-unit>
+      <trans-unit id="Input was not HEX formatted">
+        <source>Input was not HEX formatted</source>
+        <target>入力はHEX形式ではありませんでした</target>
+      </trans-unit>
+      <trans-unit id="Error reading IMPACT resonse">
+        <source>Error reading IMPACT resonse</source>
+        <target>IMPACT resonseの読み取りエラー</target>
+      </trans-unit>
+      <trans-unit id="Invalid HTTP code from IMPACT">
+        <source>Invalid HTTP code from IMPACT</source>
+        <target>IMPACTからの無効なHTTPコード</target>
+      </trans-unit>
+      <trans-unit id="Network error communicating with IMPACT">
+        <source>Network error communicating with IMPACT</source>
+        <target>IMPACTと通信中のネットワークエラー</target>
+      </trans-unit>
+      <trans-unit id="Error decoding IMPACT request">
+        <source>Error decoding IMPACT response</source>
+        <target>IMPACT要求のデコードエラー</target>
+      </trans-unit>
+      <trans-unit id="Bad HTTP response code from IMPACT">
+        <source>Bad HTTP response code from IMPACT</source>
+        <target>IMPACTからの不正なHTTP応答コード</target>
+      </trans-unit>
+      <trans-unit id="Could not decode IMPACT response">
+        <source>Could not decode IMPACT response</source>
+        <target>IMPACT応答をデコードできませんでした</target>
+      </trans-unit>
+      <trans-unit id="Command too short">
+        <source>Command too short</source>
+        <target>コマンドが短すぎます</target>
+      </trans-unit>
+      <trans-unit id="Password does not match">
+        <source>Password does not match</source>
+        <target>パスワードが一致しません</target>
+      </trans-unit>
+      <trans-unit id="User not found">
+        <source>User not found</source>
+        <target>ユーザーが見つかりません</target>
+      </trans-unit>
+      <trans-unit id="There was a problem with the backend request">
+        <source>There was a problem with the backend request</source>
+        <target>バックエンドリクエストに問題がありました</target>
+      </trans-unit>
+      <trans-unit id="Invalid role">
+        <source>Invalid role</source>
+        <target>無効な役割</target>
+      </trans-unit>
+      <trans-unit id="Cannot update root account info, use reset password instead">
+        <source>Cannot update root account info, use reset password instead</source>
+        <target>ルートアカウント情報を更新できません。代わりにパスワードのリセットを使用してください</target>
+      </trans-unit>
+      <trans-unit id="Could not create temporary file">
+        <source>Could not create temporary file</source>
+        <target>一時ファイルを作成できませんでした</target>
+      </trans-unit>
+      <trans-unit id="Could not write temporary file">
+        <source>Could not write temporary file</source>
+        <target>一時ファイルを書き込めませんでした</target>
+      </trans-unit>
+      <trans-unit id="Could not write ZIP file">
+        <source>Could not write ZIP file</source>
+        <target>ZIPファイルを書き込めませんでした</target>
+      </trans-unit>
+      <trans-unit id="No FANs were selected, please select meters with associated FANs to continue">
+        <source>No FANs were selected, please select meters with associated FANs to continue</source>
+        <target>FANが選択されていません。続行するには、FANが関連付けられているメーターを選択してください</target>
+      </trans-unit>
+      <trans-unit id="Received">
+        <source>Received</source>
+        <target>受け取った</target>
+      </trans-unit>
+      <trans-unit id="Status">
+        <source>Status</source>
+        <target>状態</target>
+      </trans-unit>
+      <trans-unit id="FAN ID">
+        <source>FAN ID</source>
+        <target>ファンID</target>
+      </trans-unit>
+      <trans-unit id="Record ID">
+        <source>Record ID</source>
+        <target>レコードID</target>
+      </trans-unit>
+      <trans-unit id="Export Data By Date Range">
+        <source>Export Data By Date Range</source>
+        <target>日付範囲によるデータのエクスポート</target>
+      </trans-unit>
+      <trans-unit id="Generate Export File">
+        <source>Generate Export File</source>
+        <target>エクスポートファイルを生成する</target>
+      </trans-unit>
+      <trans-unit id="Delete account">
+        <source>Delete account</source>
+        <target>アカウントを削除する</target>
+      </trans-unit>
+      <trans-unit id="Edit Account">
+        <source>Edit Account</source>
+        <target>アカウントの編集</target>
+      </trans-unit>
+      <trans-unit id="Create account">
+        <source>Create account</source>
+        <target>アカウントを作成する</target>
+      </trans-unit>
+      <trans-unit id="CURRENT PASSWORD">
+        <source>CURRENT PASSWORD</source>
+        <target>現在のパスワード</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

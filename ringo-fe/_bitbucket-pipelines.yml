@@ -1,0 +1,21 @@
+image: node:10.15.0
+pipelines:
+   branches:
+      master:
+      - step:
+         deployment: staging
+         caches:
+         - node
+         script:
+         - npm install
+         - npm install -g @angular/cli
+         - npm install -g firebase-tools
+         - ./build-staging.sh
+         - ls -laR ./dist
+         - firebase deploy --only hosting --token=$FIREBASE_TOKEN --project ubiik-impact --non-interactive
+      - step:
+          script:
+            - pipe: atlassian/slack-notify:0.2.4
+              variables:
+                WEBHOOK_URL: 'https://hooks.slack.com/services/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'
+                MESSAGE: 'Deployed ringo-fe (front end) in staging area, please review changes at https://ubiik-impact.firebaseapp.com'

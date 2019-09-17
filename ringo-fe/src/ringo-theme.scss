@@ -1,0 +1,10 @@
+@import '~@angular/material/theming';
+
+@include mat-core();
+
+$ringo-theme-primary: mat-palette($mat-blue, 900);
+$ringo-theme-accent:  mat-palette($mat-red, A700);
+$ringo-theme-warn:    mat-palette($mat-red);
+$ringo-theme: mat-light-theme($ringo-theme-primary, $ringo-theme-accent, $ringo-theme-warn);
+
+@include angular-material-theme($ringo-theme);
